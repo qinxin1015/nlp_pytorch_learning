@@ -1,0 +1,8 @@
+
+*.zip 
+*.gz
+*.th
+data/
+earphone_sentiment/
+IMDB/
+Skip-gram/
