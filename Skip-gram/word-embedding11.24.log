@@ -1,0 +1,1610 @@
+epoch: 0, iter: 0, loss: 700.07861328125
+epoch: 0, iteration: 0, simlex-999: SpearmanrResult(correlation=-0.020870927712175375, pvalue=0.5214248506854836), men: SpearmanrResult(correlation=0.01682117845252526, pvalue=0.4008003522743101), sim353: SpearmanrResult(correlation=-0.055840202517651455, pvalue=0.32397886230321116), nearest to monster: ['monster', 'crystalline', 'talkies', 'supper', 'specificity', 'luna', 'analyse', 'few', 'resembled', 'marched']
+epoch: 0, iter: 500, loss: 282.9577331542969
+epoch: 0, iter: 1000, loss: 185.5253448486328
+epoch: 0, iter: 1500, loss: 172.40771484375
+epoch: 0, iter: 2000, loss: 121.6170883178711
+epoch: 0, iteration: 2000, simlex-999: SpearmanrResult(correlation=0.029439202171404596, pvalue=0.36574955565721345), men: SpearmanrResult(correlation=0.019412624809036043, pvalue=0.33221881976387213), sim353: SpearmanrResult(correlation=-0.05816204046017335, pvalue=0.3042351795928182), nearest to monster: ['monster', 'jefferson', 'alien', 'positive', 'sexual', 'underlying', 'romans', 'pitcher', 'notion', 'resistant']
+epoch: 0, iter: 2500, loss: 104.97628784179688
+epoch: 0, iter: 3000, loss: 104.9325942993164
+epoch: 0, iter: 0, loss: 85.78095245361328
+epoch: 0, iteration: 0, simlex-999: SpearmanrResult(correlation=0.03256978205532835, pvalue=0.3169750204808018), men: SpearmanrResult(correlation=0.032220939512093705, pvalue=0.1074651568765506), sim353: SpearmanrResult(correlation=-0.026029392573661096, pvalue=0.6458892614588116), nearest to monster: ['monster', 'profound', 'boxing', 'voted', 'noise', 'cricket', 'seeking', 'ads', 'radioactive', 'fighter']
+epoch: 0, iter: 1000, loss: 84.10563659667969
+epoch: 0, iter: 2000, loss: 69.35020446777344
+epoch: 0, iteration: 2000, simlex-999: SpearmanrResult(correlation=0.05612090789790608, pvalue=0.08449239460720731), men: SpearmanrResult(correlation=0.0423985086613632, pvalue=0.03412894857678872), sim353: SpearmanrResult(correlation=-0.017148459348270396, pvalue=0.7621323445322519), nearest to monster: ['monster', 'terrain', 'temples', 'paradox', 'belfast', 'waters', 'monument', 'versa', 'wear', 'giants']
+epoch: 0, iter: 3000, loss: 74.77494812011719
+epoch: 0, iter: 4000, loss: 66.81356048583984
+epoch: 0, iteration: 4000, simlex-999: SpearmanrResult(correlation=0.0711724322903494, pvalue=0.02860115453750851), men: SpearmanrResult(correlation=0.04413543319409919, pvalue=0.027424807884812094), sim353: SpearmanrResult(correlation=-0.00021532236678980133, pvalue=0.9969678025983719), nearest to monster: ['monster', 'locally', 'creator', 'julian', 'happy', 'cinema', 'malaysia', 'garden', 'asterix', 'widow']
+epoch: 0, iter: 5000, loss: 65.31954193115234
+epoch: 0, iter: 6000, loss: 64.0325927734375
+epoch: 0, iteration: 6000, simlex-999: SpearmanrResult(correlation=0.08365457355453818, pvalue=0.010050577033880865), men: SpearmanrResult(correlation=0.0508342760263197, pvalue=0.01106754264348039), sim353: SpearmanrResult(correlation=0.01369380481359154, pvalue=0.8090138565481952), nearest to monster: ['monster', 'supplies', 'putting', 'monument', 'creator', 'guest', 'gate', 'hidden', 'extensively', 'egg']
+epoch: 0, iter: 7000, loss: 61.349143981933594
+epoch: 0, iter: 8000, loss: 63.89775085449219
+epoch: 0, iteration: 8000, simlex-999: SpearmanrResult(correlation=0.08379515185926152, pvalue=0.009925176987008006), men: SpearmanrResult(correlation=0.054218501032683754, pvalue=0.006729644400612015), sim353: SpearmanrResult(correlation=0.02674377443143536, pvalue=0.6368587453497769), nearest to monster: ['monster', 'abbot', 'suffering', 'monument', 'terrain', 'derives', 'planes', 'temples', 'getting', 'supplies']
+epoch: 0, iter: 9000, loss: 57.32505416870117
+epoch: 0, iter: 10000, loss: 55.98096466064453
+epoch: 0, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.08187101156217398, pvalue=0.011768316860641568), men: SpearmanrResult(correlation=0.055900066589894874, pvalue=0.005204245094099585), sim353: SpearmanrResult(correlation=0.032775126415682546, pvalue=0.5628483456352943), nearest to monster: ['monster', 'derives', 'bow', 'handed', 'ants', 'wooden', 'supplies', 'scots', 'abbot', 'pen']
+epoch: 0, iter: 11000, loss: 54.93202209472656
+epoch: 0, iter: 12000, loss: 55.79985809326172
+epoch: 0, iteration: 12000, simlex-999: SpearmanrResult(correlation=0.08350437057939313, pvalue=0.010186117475452868), men: SpearmanrResult(correlation=0.06022619830423743, pvalue=0.002606215215476779), sim353: SpearmanrResult(correlation=0.03906095028795403, pvalue=0.49040515023084275), nearest to monster: ['monster', 'abbot', 'derives', 'patient', 'milk', 'noun', 'pen', 'supplies', 'temples', 'producers']
+epoch: 0, iter: 13000, loss: 54.80083084106445
+epoch: 0, iter: 14000, loss: 54.86310577392578
+epoch: 0, iteration: 14000, simlex-999: SpearmanrResult(correlation=0.08335222566043693, pvalue=0.010325064263776367), men: SpearmanrResult(correlation=0.0603345769035659, pvalue=0.0025600104349988075), sim353: SpearmanrResult(correlation=0.04436764851034066, pvalue=0.43336460860223514), nearest to monster: ['monster', 'derives', 'pen', 'wooden', 'bow', 'milk', 'producers', 'supplies', 'curve', 'hidden']
+epoch: 0, iter: 15000, loss: 55.110530853271484
+epoch: 0, iter: 16000, loss: 56.27021026611328
+epoch: 0, iteration: 16000, simlex-999: SpearmanrResult(correlation=0.0820901039309117, pvalue=0.011544165211688284), men: SpearmanrResult(correlation=0.06205023447265744, pvalue=0.0019216179249976564), sim353: SpearmanrResult(correlation=0.04711451071062136, pvalue=0.4054068237531433), nearest to monster: ['monster', 'pen', 'ants', 'derives', 'relatives', 'producers', 'pool', 'tissue', 'hidden', 'bones']
+epoch: 0, iter: 17000, loss: 56.513675689697266
+epoch: 0, iter: 18000, loss: 55.5257682800293
+epoch: 0, iteration: 18000, simlex-999: SpearmanrResult(correlation=0.08246424025177274, pvalue=0.011170124048107296), men: SpearmanrResult(correlation=0.06239655227586489, pvalue=0.0018119900496936462), sim353: SpearmanrResult(correlation=0.047189708800913395, pvalue=0.40465685144436603), nearest to monster: ['monster', 'pen', 'ants', 'milk', 'relatives', 'producers', 'supplies', 'wooden', 'derives', 'pool']
+epoch: 0, iter: 19000, loss: 54.519630432128906
+epoch: 0, iter: 20000, loss: 53.98604202270508
+epoch: 0, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.08207764430602117, pvalue=0.01155681037620724), men: SpearmanrResult(correlation=0.06344720165062424, pvalue=0.0015135923792567064), sim353: SpearmanrResult(correlation=0.0518663323028377, pvalue=0.3596537840697036), nearest to monster: ['monster', 'ants', 'milk', 'chaos', 'curve', 'derives', 'pen', 'fruit', 'relatives', 'masses']
+epoch: 0, iter: 21000, loss: 55.078834533691406
+epoch: 0, iter: 22000, loss: 54.36204528808594
+epoch: 0, iteration: 22000, simlex-999: SpearmanrResult(correlation=0.08378732738492753, pvalue=0.009932119906503861), men: SpearmanrResult(correlation=0.06479124124154946, pvalue=0.0011978121970210919), sim353: SpearmanrResult(correlation=0.04971795387271624, pvalue=0.37992532480282615), nearest to monster: ['monster', 'ants', 'milk', 'fruit', 'pen', 'supplies', 'sword', 'relatives', 'chaos', 'derives']
+epoch: 0, iter: 23000, loss: 53.246055603027344
+epoch: 0, iter: 24000, loss: 54.887596130371094
+epoch: 0, iteration: 24000, simlex-999: SpearmanrResult(correlation=0.08562486691037834, pvalue=0.008415411971921414), men: SpearmanrResult(correlation=0.06533473231042437, pvalue=0.0010883515779446593), sim353: SpearmanrResult(correlation=0.053708297895970245, pvalue=0.3428227302825283), nearest to monster: ['monster', 'cluster', 'buddhist', 'harmony', 'milk', 'sword', 'municipalities', 'noun', 'protocol', 'mix']
+epoch: 0, iter: 25000, loss: 55.056724548339844
+epoch: 0, iter: 26000, loss: 53.36981201171875
+epoch: 0, iteration: 26000, simlex-999: SpearmanrResult(correlation=0.08624391850488886, pvalue=0.007953129123341384), men: SpearmanrResult(correlation=0.0667912525748493, pvalue=0.0008389410309362596), sim353: SpearmanrResult(correlation=0.057818610006571604, pvalue=0.3071043240684956), nearest to monster: ['monster', 'cluster', 'mix', 'harmony', 'sword', 'orange', 'protocol', 'noun', 'paintings', 'municipalities']
+epoch: 0, iter: 27000, loss: 53.28898620605469
+epoch: 0, iter: 28000, loss: 53.99625778198242
+epoch: 0, iteration: 28000, simlex-999: SpearmanrResult(correlation=0.08693261014469329, pvalue=0.0074656366727633575), men: SpearmanrResult(correlation=0.06851522118551939, pvalue=0.000612501924812344), sim353: SpearmanrResult(correlation=0.059156477061432094, pvalue=0.296027499571294), nearest to monster: ['monster', 'sword', 'cluster', 'orange', 'protocol', 'harmony', 'mix', 'bats', 'milk', 'noun']
+epoch: 0, iter: 0, loss: 54.18505096435547
+epoch: 0, iteration: 0, simlex-999: SpearmanrResult(correlation=0.08722665963688396, pvalue=0.007265772559883584), men: SpearmanrResult(correlation=0.06845128769529643, pvalue=0.0006197678541282495), sim353: SpearmanrResult(correlation=0.06058349649138107, pvalue=0.2845094275477666), nearest to monster: ['monster', 'sword', 'cluster', 'protocol', 'harmony', 'orange', 'mix', 'milk', 'paintings', 'bats']
+epoch: 0, iter: 1000, loss: 52.54728698730469
+epoch: 0, iter: 2000, loss: 53.193443298339844
+epoch: 0, iter: 3000, loss: 54.72657775878906
+epoch: 0, iter: 4000, loss: 53.479705810546875
+epoch: 0, iter: 5000, loss: 53.51542663574219
+epoch: 0, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.09059328762689323, pvalue=0.005296264118975422), men: SpearmanrResult(correlation=0.07114352031259713, pvalue=0.00037401708846349237), sim353: SpearmanrResult(correlation=0.06122655644908455, pvalue=0.27941899423871636), nearest to monster: ['monster', 'harmony', 'cluster', 'correspondence', 'protocol', 'paintings', 'burns', 'ace', 'milk', 'performances']
+epoch: 0, iter: 6000, loss: 53.85941696166992
+epoch: 0, iter: 7000, loss: 52.54083251953125
+epoch: 0, iter: 8000, loss: 53.226104736328125
+epoch: 0, iter: 9000, loss: 53.53117370605469
+epoch: 0, iter: 10000, loss: 53.13581085205078
+epoch: 0, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.09220676652589967, pvalue=0.0045352722170535435), men: SpearmanrResult(correlation=0.07223084463262787, pvalue=0.000303509176762818), sim353: SpearmanrResult(correlation=0.06465039527150455, pvalue=0.2533566328007872), nearest to monster: ['monster', 'cluster', 'singular', 'harmony', 'mineral', 'protocol', 'guest', 'correspondence', 'ace', 'performances']
+epoch: 0, iter: 11000, loss: 53.35584259033203
+epoch: 0, iter: 12000, loss: 52.90004348754883
+epoch: 0, iter: 13000, loss: 53.567665100097656
+epoch: 0, iter: 14000, loss: 53.38298034667969
+epoch: 0, iter: 15000, loss: 52.29851531982422
+epoch: 0, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.0953674927001344, pvalue=0.0033242636489638905), men: SpearmanrResult(correlation=0.07501213380009751, pvalue=0.00017559382210909907), sim353: SpearmanrResult(correlation=0.07124922150414105, pvalue=0.20799244423186755), nearest to monster: ['monster', 'singular', 'mineral', 'cluster', 'harmony', 'giant', 'guest', 'grey', 'leaf', 'correspondence']
+epoch: 0, iter: 16000, loss: 53.04657745361328
+epoch: 0, iter: 17000, loss: 52.24663162231445
+epoch: 0, iter: 18000, loss: 52.66429138183594
+epoch: 0, iter: 19000, loss: 52.911529541015625
+epoch: 0, iter: 20000, loss: 53.14942169189453
+epoch: 0, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.09734281101277059, pvalue=0.0027252049559101806), men: SpearmanrResult(correlation=0.07796738098224604, pvalue=9.618624116587055e-05), sim353: SpearmanrResult(correlation=0.07978982522810701, pvalue=0.15839499103784724), nearest to monster: ['monster', 'singular', 'mineral', 'cluster', 'pen', 'leaf', 'harmony', 'giant', 'ace', 'grey']
+epoch: 0, iter: 21000, loss: 52.67836380004883
+epoch: 0, iter: 22000, loss: 52.886024475097656
+epoch: 0, iter: 23000, loss: 53.010562896728516
+epoch: 0, iter: 24000, loss: 52.36824417114258
+epoch: 0, iter: 25000, loss: 52.80878448486328
+epoch: 0, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.09985057629897094, pvalue=0.0021068475868008555), men: SpearmanrResult(correlation=0.07919568557271259, pvalue=7.44337248493226e-05), sim353: SpearmanrResult(correlation=0.09239422678001946, pvalue=0.10221737052840177), nearest to monster: ['monster', 'mineral', 'pen', 'grey', 'singular', 'giant', 'ace', 'cluster', 'protocol', 'guest']
+epoch: 0, iter: 26000, loss: 53.19612121582031
+epoch: 0, iter: 27000, loss: 52.00380325317383
+epoch: 0, iter: 28000, loss: 52.597023010253906
+epoch: 0, iter: 29000, loss: 52.74620819091797
+epoch: 0, iter: 30000, loss: 52.8325080871582
+epoch: 0, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.10154059188124978, pvalue=0.0017656888429662561), men: SpearmanrResult(correlation=0.08233463857889406, pvalue=3.801963914737815e-05), sim353: SpearmanrResult(correlation=0.09588163512206777, pvalue=0.08985544934788257), nearest to monster: ['monster', 'giant', 'singular', 'pen', 'mineral', 'grey', 'guest', 'bats', 'ace', 'romance']
+epoch: 0, iter: 31000, loss: 52.53980255126953
+epoch: 0, iter: 32000, loss: 52.76795959472656
+epoch: 0, iter: 33000, loss: 52.43209457397461
+epoch: 0, iter: 34000, loss: 52.535369873046875
+epoch: 0, iter: 35000, loss: 52.32914733886719
+epoch: 0, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.10238900870513794, pvalue=0.001614263012966059), men: SpearmanrResult(correlation=0.08473620547135047, pvalue=2.2374479031020227e-05), sim353: SpearmanrResult(correlation=0.10453445455293858, pvalue=0.06430788646445129), nearest to monster: ['monster', 'giant', 'pen', 'singular', 'mineral', 'ace', 'printer', 'boat', 'wooden', 'guest']
+epoch: 0, iter: 36000, loss: 52.212890625
+epoch: 0, iter: 37000, loss: 52.931907653808594
+epoch: 0, iter: 38000, loss: 52.894840240478516
+epoch: 1, iter: 0, loss: 52.229469299316406
+epoch: 1, iteration: 0, simlex-999: SpearmanrResult(correlation=0.10512351756596765, pvalue=0.0012037227815646437), men: SpearmanrResult(correlation=0.08770716037288452, pvalue=1.1387755045952067e-05), sim353: SpearmanrResult(correlation=0.1126721283034068, pvalue=0.04604840914518938), nearest to monster: ['monster', 'giant', 'pen', 'ace', 'printer', 'boat', 'wooden', 'cluster', 'mineral', 'guest']
+epoch: 1, iter: 1000, loss: 52.00053405761719
+epoch: 1, iter: 2000, loss: 52.021568298339844
+epoch: 1, iter: 3000, loss: 52.25872802734375
+epoch: 1, iter: 4000, loss: 51.890743255615234
+epoch: 1, iter: 5000, loss: 52.251251220703125
+epoch: 1, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.10808238397842326, pvalue=0.0008695047533923966), men: SpearmanrResult(correlation=0.08953579481262228, pvalue=7.4341339867026155e-06), sim353: SpearmanrResult(correlation=0.12079991776881084, pvalue=0.03236405023233771), nearest to monster: ['monster', 'giant', 'pen', 'ace', 'printer', 'guest', 'faces', 'cluster', 'gene', 'grey']
+epoch: 1, iter: 6000, loss: 52.77387237548828
+epoch: 1, iter: 7000, loss: 52.565006256103516
+epoch: 1, iter: 8000, loss: 52.462852478027344
+epoch: 1, iter: 9000, loss: 52.63621520996094
+epoch: 1, iter: 10000, loss: 51.98882293701172
+epoch: 1, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.11013014246512431, pvalue=0.0006909813376845663), men: SpearmanrResult(correlation=0.09096882929728241, pvalue=5.2917023690627144e-06), sim353: SpearmanrResult(correlation=0.12495693797157811, pvalue=0.026822134536138287), nearest to monster: ['monster', 'giant', 'pen', 'gene', 'ace', 'guest', 'printer', 'faces', 'boat', 'cluster']
+epoch: 1, iter: 11000, loss: 52.181732177734375
+epoch: 1, iter: 12000, loss: 52.742408752441406
+epoch: 1, iter: 13000, loss: 52.14862060546875
+epoch: 1, iter: 14000, loss: 51.804168701171875
+epoch: 1, iter: 15000, loss: 52.499446868896484
+epoch: 1, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.11154101425562933, pvalue=0.0005884702476863552), men: SpearmanrResult(correlation=0.09329063862204402, pvalue=3.0180963520234927e-06), sim353: SpearmanrResult(correlation=0.13047857094173246, pvalue=0.020735807587356436), nearest to monster: ['monster', 'giant', 'pen', 'gene', 'ace', 'printer', 'guest', 'boat', 'faces', 'adjective']
+epoch: 1, iter: 16000, loss: 51.99147415161133
+epoch: 1, iter: 17000, loss: 52.96160125732422
+epoch: 1, iter: 18000, loss: 52.31755065917969
+epoch: 1, iter: 19000, loss: 51.959510803222656
+epoch: 1, iter: 20000, loss: 52.193878173828125
+epoch: 1, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.11443293004712915, pvalue=0.0004209902216654065), men: SpearmanrResult(correlation=0.09537973321891244, pvalue=1.8004126551815753e-06), sim353: SpearmanrResult(correlation=0.1352617896747408, pvalue=0.0164705713406067), nearest to monster: ['monster', 'giant', 'pen', 'printer', 'ace', 'gene', 'boat', 'adjective', 'wooden', 'faces']
+epoch: 1, iter: 21000, loss: 52.464698791503906
+epoch: 1, iter: 22000, loss: 51.86979293823242
+epoch: 1, iter: 23000, loss: 52.18001937866211
+epoch: 1, iter: 24000, loss: 51.958518981933594
+epoch: 1, iter: 25000, loss: 52.748939514160156
+epoch: 1, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.1160387403942974, pvalue=0.00034837774888640143), men: SpearmanrResult(correlation=0.09785290244536468, pvalue=9.631541167874903e-07), sim353: SpearmanrResult(correlation=0.13995042936635096, pvalue=0.013055000327239318), nearest to monster: ['monster', 'giant', 'boat', 'pen', 'printer', 'gene', 'ace', 'adjective', 'wooden', 'leaf']
+epoch: 1, iter: 26000, loss: 51.92964553833008
+epoch: 1, iter: 27000, loss: 52.56253433227539
+epoch: 1, iter: 28000, loss: 52.240631103515625
+epoch: 1, iter: 29000, loss: 52.46534729003906
+epoch: 1, iter: 30000, loss: 52.532352447509766
+epoch: 1, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.12050061541702355, pvalue=0.00020328809432165323), men: SpearmanrResult(correlation=0.10075887034725922, pvalue=4.529462882109353e-07), sim353: SpearmanrResult(correlation=0.1463566089449919, pvalue=0.009401405332382031), nearest to monster: ['monster', 'giant', 'boat', 'pen', 'adjective', 'ace', 'printer', 'wooden', 'wearing', 'albatross']
+epoch: 1, iter: 31000, loss: 52.24591827392578
+epoch: 1, iter: 32000, loss: 52.35761260986328
+epoch: 1, iter: 33000, loss: 52.72578430175781
+epoch: 1, iter: 34000, loss: 52.34559631347656
+epoch: 1, iter: 35000, loss: 51.659244537353516
+epoch: 1, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.12319337877377125, pvalue=0.00014555049461771125), men: SpearmanrResult(correlation=0.10422164771461322, pvalue=1.7934225206413303e-07), sim353: SpearmanrResult(correlation=0.15550054167689362, pvalue=0.005757117594363731), nearest to monster: ['monster', 'giant', 'pen', 'ace', 'albatross', 'boat', 'printer', 'gene', 'adjective', 'robot']
+epoch: 1, iter: 36000, loss: 52.44390106201172
+epoch: 1, iter: 37000, loss: 52.162933349609375
+epoch: 1, iter: 38000, loss: 52.39521789550781
+epoch: 2, iter: 0, loss: 52.2640266418457
+epoch: 2, iteration: 0, simlex-999: SpearmanrResult(correlation=0.1232425510590332, pvalue=0.00014465603850923658), men: SpearmanrResult(correlation=0.1069689085716086, pvalue=8.417721692322044e-08), sim353: SpearmanrResult(correlation=0.15649439684961922, pvalue=0.0054497710009193635), nearest to monster: ['monster', 'giant', 'printer', 'pen', 'ace', 'boat', 'adjective', 'gene', 'albatross', 'wooden']
+epoch: 2, iter: 1000, loss: 52.04346466064453
+epoch: 2, iter: 2000, loss: 52.62767791748047
+epoch: 2, iter: 3000, loss: 52.0948486328125
+epoch: 2, iter: 4000, loss: 52.41846466064453
+epoch: 2, iter: 5000, loss: 51.86671447753906
+epoch: 2, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.12392897858457218, pvalue=0.0001326972208214506), men: SpearmanrResult(correlation=0.10799447264831606, pvalue=6.316283592115074e-08), sim353: SpearmanrResult(correlation=0.16227941694530665, pvalue=0.003935755110012532), nearest to monster: ['monster', 'giant', 'ace', 'pen', 'printer', 'boat', 'adjective', 'robot', 'albatross', 'gene']
+epoch: 2, iter: 6000, loss: 51.923301696777344
+epoch: 2, iter: 7000, loss: 51.51384353637695
+epoch: 2, iter: 8000, loss: 51.55720138549805
+epoch: 2, iter: 9000, loss: 51.39197540283203
+epoch: 2, iter: 10000, loss: 52.420780181884766
+epoch: 2, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.1260055685582213, pvalue=0.00010193406244043198), men: SpearmanrResult(correlation=0.11021178319850246, pvalue=3.3640292987663216e-08), sim353: SpearmanrResult(correlation=0.16526098246348336, pvalue=0.003314324643725575), nearest to monster: ['monster', 'giant', 'robot', 'pen', 'printer', 'ace', 'adjective', 'gene', 'albatross', 'boat']
+epoch: 2, iter: 11000, loss: 51.98054504394531
+epoch: 2, iter: 12000, loss: 51.53990173339844
+epoch: 2, iter: 13000, loss: 52.11058807373047
+epoch: 2, iter: 14000, loss: 51.859214782714844
+epoch: 2, iter: 15000, loss: 52.676300048828125
+epoch: 2, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.12794821402060413, pvalue=7.93532660312409e-05), men: SpearmanrResult(correlation=0.11232543705278362, pvalue=1.8240746963685983e-08), sim353: SpearmanrResult(correlation=0.1703145654644231, pvalue=0.0024609732253580625), nearest to monster: ['monster', 'giant', 'printer', 'robot', 'pen', 'boat', 'ace', 'adjective', 'albatross', 'cat']
+epoch: 2, iter: 16000, loss: 52.397857666015625
+epoch: 2, iter: 17000, loss: 51.66564178466797
+epoch: 2, iter: 18000, loss: 51.69789505004883
+epoch: 0, iter: 0, loss: 420.0470886230469
+epoch: 0, iteration: 0, simlex-999: SpearmanrResult(correlation=-0.005910786003939218, pvalue=0.8553252970978341), men: SpearmanrResult(correlation=0.015225501170390452, pvalue=0.4393274413158711), sim353: SpearmanrResult(correlation=-0.041519277474695686, pvalue=0.459927842667605), nearest to monster: ['monster', 'researched', 'endeavor', 'waves', 'eyesight', 'idiot', 'bukhari', 'unusable', 'atrocities', 'indra']
+epoch: 0, iter: 1000, loss: 113.33137512207031
+epoch: 0, iter: 2000, loss: 80.01216125488281
+epoch: 0, iter: 3000, loss: 57.88064956665039
+epoch: 0, iter: 4000, loss: 42.13494110107422
+epoch: 0, iter: 5000, loss: 42.869544982910156
+epoch: 0, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.08237498227225924, pvalue=0.010918447533726328), men: SpearmanrResult(correlation=0.06265040778008577, pvalue=0.0014472060183148608), sim353: SpearmanrResult(correlation=0.025861449921400433, pvalue=0.6453984986163587), nearest to monster: ['monster', 'teacher', 'prominent', 'stock', 'virtually', 'detroit', 'electrons', 'approved', 'preserved', 'examination']
+epoch: 0, iter: 6000, loss: 39.14769744873047
+epoch: 0, iter: 7000, loss: 50.446746826171875
+epoch: 0, iter: 8000, loss: 40.285011291503906
+epoch: 0, iter: 9000, loss: 33.449607849121094
+epoch: 0, iter: 10000, loss: 34.21827697753906
+epoch: 0, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.07959784242670233, pvalue=0.013924337947691037), men: SpearmanrResult(correlation=0.07026457219821644, pvalue=0.0003528224441151511), sim353: SpearmanrResult(correlation=0.04865920691395019, pvalue=0.38638993260310595), nearest to monster: ['monster', 'angle', 'crystal', 'regime', 'pitch', 'forest', 'celtic', 'mouse', 'flying', 'clock']
+epoch: 0, iter: 11000, loss: 34.368377685546875
+epoch: 0, iter: 12000, loss: 32.69727325439453
+epoch: 0, iter: 13000, loss: 32.63386917114258
+epoch: 0, iter: 14000, loss: 33.515602111816406
+epoch: 0, iter: 15000, loss: 34.509605407714844
+epoch: 0, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.08697677019479991, pvalue=0.007187811068235712), men: SpearmanrResult(correlation=0.07658178948416923, pvalue=9.811098078781047e-05), sim353: SpearmanrResult(correlation=0.06051010719348326, pvalue=0.28126135577806266), nearest to monster: ['monster', 'mouse', 'hospital', 'painting', 'crystal', 'breaking', 'frame', 'replacement', 'cathedral', 'entertainment']
+epoch: 0, iter: 16000, loss: 33.51470947265625
+epoch: 0, iter: 17000, loss: 32.47687911987305
+epoch: 0, iter: 18000, loss: 32.81901550292969
+epoch: 0, iter: 19000, loss: 35.400596618652344
+epoch: 0, iter: 20000, loss: 32.16975021362305
+epoch: 0, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.0870479045221666, pvalue=0.007140448986718647), men: SpearmanrResult(correlation=0.07846576202779042, pvalue=6.570238365687064e-05), sim353: SpearmanrResult(correlation=0.06983297560647692, pvalue=0.21354385272236265), nearest to monster: ['monster', 'officer', 'mouse', 'hole', 'painting', 'breaking', 'forming', 'replacement', 'forest', 'inner']
+epoch: 0, iter: 21000, loss: 32.29142379760742
+epoch: 0, iter: 22000, loss: 31.99302864074707
+epoch: 0, iter: 23000, loss: 31.871301651000977
+epoch: 0, iter: 24000, loss: 32.023963928222656
+epoch: 0, iter: 25000, loss: 31.94709014892578
+epoch: 0, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.08839611982850862, pvalue=0.006294132932234303), men: SpearmanrResult(correlation=0.08241336432158704, pvalue=2.75522794120316e-05), sim353: SpearmanrResult(correlation=0.08254115539153091, pvalue=0.1413030070012222), nearest to monster: ['monster', 'hole', 'brand', 'replacement', 'bomb', 'forming', 'platform', 'column', 'gate', 'officer']
+epoch: 0, iter: 26000, loss: 31.434940338134766
+epoch: 0, iter: 27000, loss: 31.33443832397461
+epoch: 0, iter: 28000, loss: 32.68019104003906
+epoch: 0, iter: 29000, loss: 30.797800064086914
+epoch: 0, iter: 30000, loss: 32.210716247558594
+epoch: 0, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.08998708013720473, pvalue=0.005412138444401751), men: SpearmanrResult(correlation=0.08569819478010002, pvalue=1.2974763544416338e-05), sim353: SpearmanrResult(correlation=0.09135035848631787, pvalue=0.10340376624108209), nearest to monster: ['monster', 'forming', 'hole', 'matrix', 'platform', 'mouse', 'brand', 'scheme', 'variant', 'boat']
+epoch: 0, iter: 31000, loss: 31.705848693847656
+epoch: 0, iter: 32000, loss: 31.27614402770996
+epoch: 0, iter: 33000, loss: 31.0880126953125
+epoch: 0, iter: 34000, loss: 31.041271209716797
+epoch: 0, iter: 35000, loss: 31.0701904296875
+epoch: 0, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.09240257534484864, pvalue=0.004284758304438388), men: SpearmanrResult(correlation=0.0897567262036923, pvalue=4.927371911370096e-06), sim353: SpearmanrResult(correlation=0.09836071635735975, pvalue=0.07940684792786613), nearest to monster: ['monster', 'brand', 'officer', 'mouse', 'forming', 'boat', 'scheme', 'replacement', 'angle', 'platform']
+epoch: 0, iter: 36000, loss: 31.142969131469727
+epoch: 0, iter: 37000, loss: 31.030067443847656
+epoch: 0, iter: 38000, loss: 31.083251953125
+epoch: 0, iter: 39000, loss: 31.45787239074707
+epoch: 0, iter: 40000, loss: 31.029661178588867
+epoch: 0, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.09617977246197217, pvalue=0.002942367539610305), men: SpearmanrResult(correlation=0.09181300135363811, pvalue=2.9691470144487053e-06), sim353: SpearmanrResult(correlation=0.1050278297174589, pvalue=0.060974772827161114), nearest to monster: ['monster', 'matrix', 'boat', 'mouse', 'brand', 'bird', 'window', 'dimension', 'forming', 'column']
+epoch: 0, iter: 41000, loss: 31.78818702697754
+epoch: 0, iter: 42000, loss: 31.416229248046875
+epoch: 0, iter: 43000, loss: 31.541257858276367
+epoch: 0, iter: 44000, loss: 31.096302032470703
+epoch: 0, iter: 45000, loss: 31.268831253051758
+epoch: 0, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.10394154311181567, pvalue=0.0013047466710381492), men: SpearmanrResult(correlation=0.09400737098814742, pvalue=1.7088582099941035e-06), sim353: SpearmanrResult(correlation=0.11534290951157294, pvalue=0.039505775421792844), nearest to monster: ['monster', 'mouse', 'brand', 'window', 'matrix', 'boat', 'bird', 'forming', 'angle', 'plate']
+epoch: 0, iter: 46000, loss: 31.07099151611328
+epoch: 0, iter: 47000, loss: 31.291345596313477
+epoch: 0, iter: 48000, loss: 31.218761444091797
+epoch: 0, iter: 49000, loss: 31.17249298095703
+epoch: 0, iter: 50000, loss: 30.817358016967773
+epoch: 0, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.10575194467472228, pvalue=0.0010707581614225847), men: SpearmanrResult(correlation=0.09814356587561751, pvalue=5.833227138278184e-07), sim353: SpearmanrResult(correlation=0.12231593006909279, pvalue=0.02894283186064139), nearest to monster: ['monster', 'window', 'mouse', 'plate', 'matrix', 'bird', 'scheme', 'gene', 'blade', 'brand']
+epoch: 0, iter: 51000, loss: 31.037342071533203
+epoch: 0, iter: 52000, loss: 30.683490753173828
+epoch: 0, iter: 53000, loss: 31.246723175048828
+epoch: 0, iter: 54000, loss: 31.247840881347656
+epoch: 0, iter: 55000, loss: 30.921201705932617
+epoch: 0, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.10821021358487547, pvalue=0.0008147645568810186), men: SpearmanrResult(correlation=0.10196958208420653, pvalue=2.0754500518882613e-07), sim353: SpearmanrResult(correlation=0.1289640050960594, pvalue=0.021225011080491678), nearest to monster: ['monster', 'mouse', 'bird', 'plate', 'window', 'matrix', 'boat', 'gate', 'factory', 'gene']
+epoch: 0, iter: 56000, loss: 31.167316436767578
+epoch: 0, iter: 57000, loss: 30.80219841003418
+epoch: 0, iter: 58000, loss: 30.814960479736328
+epoch: 0, iter: 59000, loss: 31.45773696899414
+epoch: 0, iter: 60000, loss: 31.307113647460938
+epoch: 0, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.11367953772106544, pvalue=0.0004347894153976836), men: SpearmanrResult(correlation=0.10554139957621328, pvalue=7.643951022975754e-08), sim353: SpearmanrResult(correlation=0.13951475357700813, pvalue=0.01262266623705027), nearest to monster: ['monster', 'mouse', 'bird', 'window', 'plate', 'gene', 'boat', 'diamond', 'matrix', 'keyboard']
+epoch: 0, iter: 61000, loss: 30.927207946777344
+epoch: 0, iter: 62000, loss: 31.0069580078125
+epoch: 0, iter: 63000, loss: 31.095012664794922
+epoch: 0, iter: 64000, loss: 31.389049530029297
+epoch: 0, iter: 65000, loss: 31.087730407714844
+epoch: 0, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.11437468650460696, pvalue=0.00040063000672956847), men: SpearmanrResult(correlation=0.10859261051798533, pvalue=3.172308864435753e-08), sim353: SpearmanrResult(correlation=0.15043832067862, pvalue=0.007108846362223531), nearest to monster: ['monster', 'mouse', 'bird', 'window', 'plate', 'blade', 'boat', 'cartoon', 'brand', 'gene']
+epoch: 0, iter: 66000, loss: 31.208335876464844
+epoch: 0, iter: 67000, loss: 30.551916122436523
+epoch: 0, iter: 68000, loss: 31.54197883605957
+epoch: 0, iter: 69000, loss: 31.18524742126465
+epoch: 0, iter: 70000, loss: 31.162288665771484
+epoch: 0, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.11601115265335968, pvalue=0.00032984667859006295), men: SpearmanrResult(correlation=0.11196354144468469, pvalue=1.1672936072305417e-08), sim353: SpearmanrResult(correlation=0.16609226663001442, pvalue=0.0029246185472625915), nearest to monster: ['monster', 'bird', 'missile', 'boat', 'mouse', 'plate', 'tank', 'gate', 'window', 'pool']
+epoch: 0, iter: 71000, loss: 30.860410690307617
+epoch: 0, iter: 72000, loss: 30.815631866455078
+epoch: 0, iter: 73000, loss: 30.74110221862793
+epoch: 0, iter: 74000, loss: 31.246593475341797
+epoch: 0, iter: 75000, loss: 30.945598602294922
+epoch: 0, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.11763828992933474, pvalue=0.0002711935904950927), men: SpearmanrResult(correlation=0.11539145680097455, pvalue=4.0966584164271945e-09), sim353: SpearmanrResult(correlation=0.17952390307410446, pvalue=0.001281853090456929), nearest to monster: ['monster', 'bird', 'boat', 'gate', 'plate', 'cartoon', 'blade', 'missile', 'speaker', 'driving']
+epoch: 0, iter: 76000, loss: 31.258235931396484
+epoch: 0, iter: 77000, loss: 30.683738708496094
+epoch: 0, iter: 78000, loss: 30.765758514404297
+epoch: 0, iter: 79000, loss: 31.510311126708984
+epoch: 0, iter: 80000, loss: 31.63547134399414
+epoch: 0, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.11853302268705043, pvalue=0.00024325432490238019), men: SpearmanrResult(correlation=0.1190028838295434, pvalue=1.3148164934615713e-09), sim353: SpearmanrResult(correlation=0.1822798404236769, pvalue=0.00107440456276973), nearest to monster: ['monster', 'bird', 'boat', 'blade', 'gate', 'mouse', 'plate', 'wheel', 'pool', 'tank']
+epoch: 0, iter: 81000, loss: 30.873279571533203
+epoch: 0, iter: 82000, loss: 30.641557693481445
+epoch: 0, iter: 83000, loss: 31.007335662841797
+epoch: 0, iter: 84000, loss: 30.606884002685547
+epoch: 0, iter: 85000, loss: 31.170413970947266
+epoch: 0, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.11884068199542995, pvalue=0.00023428711789494792), men: SpearmanrResult(correlation=0.12239793755927218, pvalue=4.3780616098170826e-10), sim353: SpearmanrResult(correlation=0.18739338883252477, pvalue=0.0007691619833403789), nearest to monster: ['monster', 'bird', 'boat', 'mouse', 'blade', 'tank', 'cartoon', 'module', 'wheel', 'brand']
+epoch: 0, iter: 86000, loss: 30.735177993774414
+epoch: 0, iter: 87000, loss: 30.78390884399414
+epoch: 0, iter: 88000, loss: 30.925031661987305
+epoch: 0, iter: 89000, loss: 30.95920181274414
+epoch: 0, iter: 90000, loss: 31.428997039794922
+epoch: 0, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.1193507966204259, pvalue=0.00022009826758035876), men: SpearmanrResult(correlation=0.12559352798772583, pvalue=1.512449731623612e-10), sim353: SpearmanrResult(correlation=0.19043545569364237, pvalue=0.0006278772024467626), nearest to monster: ['monster', 'boat', 'bird', 'cartoon', 'tank', 'module', 'blade', 'crystal', 'gate', 'wheel']
+epoch: 0, iter: 91000, loss: 31.32035255432129
+epoch: 0, iter: 92000, loss: 30.42677116394043
+epoch: 0, iter: 93000, loss: 30.152748107910156
+epoch: 0, iter: 94000, loss: 30.690139770507812
+epoch: 0, iter: 95000, loss: 30.74862289428711
+epoch: 0, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.1236475408863016, pvalue=0.0001287788279038674), men: SpearmanrResult(correlation=0.1284457093076202, pvalue=5.724812581802522e-11), sim353: SpearmanrResult(correlation=0.1996459424896984, pvalue=0.0003332499857822168), nearest to monster: ['monster', 'module', 'bird', 'cartoon', 'blade', 'boat', 'tank', 'motor', 'ghost', 'wheel']
+epoch: 0, iter: 96000, loss: 30.846405029296875
+epoch: 0, iter: 97000, loss: 30.43069839477539
+epoch: 0, iter: 98000, loss: 30.68691635131836
+epoch: 0, iter: 99000, loss: 30.904552459716797
+epoch: 0, iter: 100000, loss: 30.52884292602539
+epoch: 0, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.12360005831023481, pvalue=0.0001295562267929932), men: SpearmanrResult(correlation=0.12953702488804958, pvalue=3.925021444085896e-11), sim353: SpearmanrResult(correlation=0.20724112838046177, pvalue=0.0001934184513873891), nearest to monster: ['monster', 'blade', 'module', 'bird', 'cartoon', 'ghost', 'boat', 'wheel', 'brand', 'mouse']
+epoch: 0, iter: 101000, loss: 31.00531578063965
+epoch: 0, iter: 102000, loss: 30.316631317138672
+epoch: 0, iter: 103000, loss: 30.8076171875
+epoch: 0, iter: 104000, loss: 30.777353286743164
+epoch: 0, iter: 105000, loss: 30.763912200927734
+epoch: 0, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.12922064543624476, pvalue=6.260135811479023e-05), men: SpearmanrResult(correlation=0.13234813222343497, pvalue=1.463058376696699e-11), sim353: SpearmanrResult(correlation=0.21448308849825176, pvalue=0.00011302705709648786), nearest to monster: ['monster', 'blade', 'bird', 'ghost', 'module', 'boat', 'cartoon', 'clown', 'brand', 'crystal']
+epoch: 0, iter: 106000, loss: 30.966995239257812
+epoch: 0, iter: 107000, loss: 31.081279754638672
+epoch: 0, iter: 108000, loss: 30.703800201416016
+epoch: 0, iter: 109000, loss: 30.729795455932617
+epoch: 0, iter: 110000, loss: 30.906715393066406
+epoch: 0, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.13471911485925703, pvalue=2.9845277540692312e-05), men: SpearmanrResult(correlation=0.13336687613830872, pvalue=1.0178517754882139e-11), sim353: SpearmanrResult(correlation=0.22046962765840952, pvalue=7.150302041633482e-05), nearest to monster: ['monster', 'bird', 'blade', 'module', 'boat', 'ghost', 'cartoon', 'leg', 'clown', 'diamond']
+epoch: 0, iter: 111000, loss: 30.475269317626953
+epoch: 0, iter: 112000, loss: 30.87187957763672
+epoch: 0, iter: 113000, loss: 30.680465698242188
+epoch: 0, iter: 114000, loss: 30.684083938598633
+epoch: 0, iter: 115000, loss: 30.644384384155273
+epoch: 0, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.13426142041951294, pvalue=3.177870286654237e-05), men: SpearmanrResult(correlation=0.1360311689608313, pvalue=3.8893841805708875e-12), sim353: SpearmanrResult(correlation=0.22573733111417515, pvalue=4.729488006611277e-05), nearest to monster: ['monster', 'bird', 'blade', 'ghost', 'module', 'pool', 'leg', 'brand', 'boat', 'cartoon']
+epoch: 0, iter: 116000, loss: 30.797077178955078
+epoch: 0, iter: 117000, loss: 31.061918258666992
+epoch: 0, iter: 118000, loss: 30.909652709960938
+epoch: 0, iter: 119000, loss: 30.414897918701172
+epoch: 1, iter: 0, loss: 30.682415008544922
+epoch: 1, iteration: 0, simlex-999: SpearmanrResult(correlation=0.13750654455429198, pvalue=2.027496077484784e-05), men: SpearmanrResult(correlation=0.13786714770199834, pvalue=1.9822751845252444e-12), sim353: SpearmanrResult(correlation=0.2263596812856044, pvalue=4.5011550202187914e-05), nearest to monster: ['monster', 'bird', 'blade', 'module', 'ghost', 'clown', 'leg', 'boat', 'brand', 'pen']
+epoch: 1, iter: 1000, loss: 30.569412231445312
+epoch: 1, iter: 2000, loss: 30.75220489501953
+epoch: 1, iter: 3000, loss: 30.4912052154541
+epoch: 1, iter: 4000, loss: 30.71566390991211
+epoch: 1, iter: 5000, loss: 30.017377853393555
+epoch: 1, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.13978035941873246, pvalue=1.4708494699574186e-05), men: SpearmanrResult(correlation=0.14097853434609975, pvalue=6.1962032278493e-13), sim353: SpearmanrResult(correlation=0.2234516221091575, pvalue=5.66537832071206e-05), nearest to monster: ['monster', 'bird', 'blade', 'brand', 'clown', 'ghost', 'module', 'pen', 'boat', 'leg']
+epoch: 1, iter: 6000, loss: 30.309532165527344
+epoch: 1, iter: 7000, loss: 30.723491668701172
+epoch: 1, iter: 8000, loss: 30.618167877197266
+epoch: 1, iter: 9000, loss: 30.609546661376953
+epoch: 1, iter: 10000, loss: 30.76789093017578
+epoch: 1, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.14221102365429633, pvalue=1.037891437812485e-05), men: SpearmanrResult(correlation=0.14339454855415104, pvalue=2.4668910272736747e-13), sim353: SpearmanrResult(correlation=0.22766833564073338, pvalue=4.054525807415766e-05), nearest to monster: ['monster', 'bird', 'blade', 'ghost', 'brand', 'clown', 'pen', 'module', 'gate', 'cartoon']
+epoch: 1, iter: 11000, loss: 30.96696662902832
+epoch: 1, iter: 12000, loss: 30.484420776367188
+epoch: 1, iter: 13000, loss: 30.722347259521484
+epoch: 1, iter: 14000, loss: 30.510297775268555
+epoch: 1, iter: 15000, loss: 30.72525405883789
+epoch: 1, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.14416083610585764, pvalue=7.814210517871508e-06), men: SpearmanrResult(correlation=0.14264639906434995, pvalue=3.28653693601633e-13), sim353: SpearmanrResult(correlation=0.23447594769165742, pvalue=2.331114034687666e-05), nearest to monster: ['monster', 'bird', 'clown', 'blade', 'pen', 'giant', 'ghost', 'brand', 'mine', 'module']
+epoch: 1, iter: 16000, loss: 30.160503387451172
+epoch: 1, iter: 17000, loss: 30.296049118041992
+epoch: 1, iter: 18000, loss: 30.05463409423828
+epoch: 1, iter: 19000, loss: 30.52497673034668
+epoch: 1, iter: 20000, loss: 30.369319915771484
+epoch: 1, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.14570133902749988, pvalue=6.228100412172633e-06), men: SpearmanrResult(correlation=0.143950987777136, pvalue=1.9909529721044266e-13), sim353: SpearmanrResult(correlation=0.23181314711805148, pvalue=2.900323954041162e-05), nearest to monster: ['monster', 'clown', 'bird', 'blade', 'pen', 'mine', 'giant', 'gate', 'module', 'cat']
+epoch: 1, iter: 21000, loss: 30.5871524810791
+epoch: 1, iter: 22000, loss: 30.366313934326172
+epoch: 1, iter: 23000, loss: 30.584545135498047
+epoch: 1, iter: 24000, loss: 30.484527587890625
+epoch: 1, iter: 25000, loss: 30.296722412109375
+epoch: 1, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.1488732900119719, pvalue=3.875284323409987e-06), men: SpearmanrResult(correlation=0.14601762240021382, pvalue=8.915430846002547e-14), sim353: SpearmanrResult(correlation=0.24245502082457626, pvalue=1.1928242584588627e-05), nearest to monster: ['monster', 'bird', 'clown', 'module', 'giant', 'pen', 'ghost', 'gate', 'reed', 'blade']
+epoch: 1, iter: 26000, loss: 30.379493713378906
+epoch: 1, iter: 27000, loss: 30.07855224609375
+epoch: 1, iter: 28000, loss: 31.3160400390625
+epoch: 1, iter: 29000, loss: 30.79937744140625
+epoch: 1, iter: 30000, loss: 29.992673873901367
+epoch: 1, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.15067131854551083, pvalue=2.9484795224524548e-06), men: SpearmanrResult(correlation=0.14677663113454048, pvalue=6.618122983216515e-14), sim353: SpearmanrResult(correlation=0.2445398107216808, pvalue=9.97438561863918e-06), nearest to monster: ['monster', 'bird', 'clown', 'ghost', 'giant', 'blade', 'module', 'pen', 'boat', 'gate']
+epoch: 1, iter: 31000, loss: 30.12264633178711
+epoch: 1, iter: 32000, loss: 30.065223693847656
+epoch: 1, iter: 33000, loss: 30.402746200561523
+epoch: 1, iter: 34000, loss: 30.271081924438477
+epoch: 1, iter: 35000, loss: 30.140216827392578
+epoch: 1, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.15140455843067951, pvalue=2.6350766444227003e-06), men: SpearmanrResult(correlation=0.14951584171635365, pvalue=2.228779891941356e-14), sim353: SpearmanrResult(correlation=0.24607637055984277, pvalue=8.733380301251095e-06), nearest to monster: ['monster', 'ghost', 'bird', 'clown', 'giant', 'gate', 'boat', 'module', 'pen', 'mine']
+epoch: 1, iter: 36000, loss: 30.37454605102539
+epoch: 1, iter: 37000, loss: 30.61861801147461
+epoch: 1, iter: 38000, loss: 29.745943069458008
+epoch: 1, iter: 39000, loss: 30.391075134277344
+epoch: 1, iter: 40000, loss: 30.018611907958984
+epoch: 1, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.1535418064681323, pvalue=1.8933173596746045e-06), men: SpearmanrResult(correlation=0.1507250278943633, pvalue=1.3696112526925822e-14), sim353: SpearmanrResult(correlation=0.24874728234396903, pvalue=6.917997088589828e-06), nearest to monster: ['monster', 'clown', 'giant', 'bird', 'ghost', 'pen', 'stone', 'blade', 'boat', 'module']
+epoch: 1, iter: 41000, loss: 30.02336883544922
+epoch: 1, iter: 42000, loss: 30.105663299560547
+epoch: 1, iter: 43000, loss: 30.972217559814453
+epoch: 1, iter: 44000, loss: 30.68845558166504
+epoch: 1, iter: 45000, loss: 30.329444885253906
+epoch: 1, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.15479296647350244, pvalue=1.5569238809873792e-06), men: SpearmanrResult(correlation=0.15323601998582817, pvalue=4.91965061819019e-15), sim353: SpearmanrResult(correlation=0.2514640339981619, pvalue=5.4433446064394655e-06), nearest to monster: ['monster', 'clown', 'giant', 'bird', 'ghost', 'pen', 'blade', 'stone', 'mine', 'brand']
+epoch: 1, iter: 46000, loss: 30.60816192626953
+epoch: 1, iter: 47000, loss: 30.264728546142578
+epoch: 1, iter: 48000, loss: 30.326461791992188
+epoch: 1, iter: 49000, loss: 30.520112991333008
+epoch: 1, iter: 50000, loss: 30.500133514404297
+epoch: 1, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.15544832415342108, pvalue=1.4044262885306074e-06), men: SpearmanrResult(correlation=0.15511774640871273, pvalue=2.2584283342697347e-15), sim353: SpearmanrResult(correlation=0.254351021621433, pvalue=4.20650479580014e-06), nearest to monster: ['monster', 'clown', 'giant', 'bird', 'stone', 'warrior', 'reed', 'eagle', 'cat', 'boat']
+epoch: 1, iter: 51000, loss: 30.18209457397461
+epoch: 1, iter: 52000, loss: 30.525358200073242
+epoch: 1, iter: 53000, loss: 30.399991989135742
+epoch: 1, iter: 54000, loss: 30.481536865234375
+epoch: 1, iter: 55000, loss: 30.521718978881836
+epoch: 1, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.15667299591631353, pvalue=1.1570296193646636e-06), men: SpearmanrResult(correlation=0.15733284735071926, pvalue=8.9203538450867e-16), sim353: SpearmanrResult(correlation=0.2590821398239586, pvalue=2.7386854614839055e-06), nearest to monster: ['monster', 'clown', 'bird', 'giant', 'robot', 'ghost', 'eagle', 'blade', 'stone', 'warrior']
+epoch: 1, iter: 56000, loss: 29.98341941833496
+epoch: 1, iter: 57000, loss: 30.40921974182129
+epoch: 1, iter: 58000, loss: 30.40766716003418
+epoch: 1, iter: 59000, loss: 30.49009132385254
+epoch: 1, iter: 60000, loss: 30.794628143310547
+epoch: 1, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.15787596155616332, pvalue=9.55107760430924e-07), men: SpearmanrResult(correlation=0.15813461531493286, pvalue=6.3521480865440085e-16), sim353: SpearmanrResult(correlation=0.26124511627363645, pvalue=2.244474257345461e-06), nearest to monster: ['monster', 'clown', 'giant', 'robot', 'bird', 'blade', 'warrior', 'ghost', 'eagle', 'boat']
+epoch: 1, iter: 61000, loss: 30.242839813232422
+epoch: 1, iter: 62000, loss: 30.594314575195312
+epoch: 1, iter: 63000, loss: 30.6415958404541
+epoch: 1, iter: 64000, loss: 30.25925636291504
+epoch: 1, iter: 65000, loss: 30.042930603027344
+epoch: 1, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.1601525682938, pvalue=6.617778324309255e-07), men: SpearmanrResult(correlation=0.1600675985200029, pvalue=2.7813334070744394e-16), sim353: SpearmanrResult(correlation=0.26643999348421554, pvalue=1.3816327694135452e-06), nearest to monster: ['monster', 'clown', 'robot', 'bird', 'giant', 'blade', 'mine', 'boat', 'warrior', 'reed']
+epoch: 1, iter: 66000, loss: 30.229618072509766
+epoch: 1, iter: 67000, loss: 30.156112670898438
+epoch: 1, iter: 68000, loss: 29.875408172607422
+epoch: 1, iter: 69000, loss: 30.45621109008789
+epoch: 1, iter: 70000, loss: 30.259071350097656
+epoch: 1, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.1612316963898982, pvalue=5.55137323646213e-07), men: SpearmanrResult(correlation=0.1611793751245454, pvalue=1.7216297154276798e-16), sim353: SpearmanrResult(correlation=0.27141620712104914, pvalue=8.596892226662617e-07), nearest to monster: ['monster', 'clown', 'bird', 'robot', 'giant', 'blade', 'mine', 'reed', 'pen', 'warrior']
+epoch: 1, iter: 71000, loss: 30.751014709472656
+epoch: 1, iter: 72000, loss: 30.705448150634766
+epoch: 1, iter: 73000, loss: 30.260669708251953
+epoch: 1, iter: 74000, loss: 30.447620391845703
+epoch: 1, iter: 75000, loss: 30.59816551208496
+epoch: 1, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.16198337369508528, pvalue=4.908473449539889e-07), men: SpearmanrResult(correlation=0.16253461242299894, pvalue=9.550127390669088e-17), sim353: SpearmanrResult(correlation=0.2771443424975247, pvalue=4.920593719435606e-07), nearest to monster: ['monster', 'clown', 'bird', 'robot', 'blade', 'giant', 'mine', 'pen', 'reed', 'mirror']
+epoch: 1, iter: 76000, loss: 30.576702117919922
+epoch: 1, iter: 77000, loss: 30.679855346679688
+epoch: 1, iter: 78000, loss: 30.52535057067871
+epoch: 1, iter: 79000, loss: 30.371673583984375
+epoch: 1, iter: 80000, loss: 30.390722274780273
+epoch: 1, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.16453674213973696, pvalue=3.217632230728666e-07), men: SpearmanrResult(correlation=0.1643153371994673, pvalue=4.3689902014399204e-17), sim353: SpearmanrResult(correlation=0.27670239439539, pvalue=5.139380699390482e-07), nearest to monster: ['monster', 'clown', 'bird', 'blade', 'robot', 'giant', 'mine', 'pen', 'demon', 'mirror']
+epoch: 1, iter: 81000, loss: 29.885866165161133
+epoch: 1, iter: 82000, loss: 30.708194732666016
+epoch: 1, iter: 83000, loss: 29.917339324951172
+epoch: 1, iter: 84000, loss: 30.795284271240234
+epoch: 1, iter: 85000, loss: 30.37957191467285
+epoch: 1, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.16600031255706543, pvalue=2.5184184731925094e-07), men: SpearmanrResult(correlation=0.1655851232495323, pvalue=2.4881508163659546e-17), sim353: SpearmanrResult(correlation=0.27708020364706853, pvalue=4.951781750644667e-07), nearest to monster: ['monster', 'clown', 'giant', 'bird', 'blade', 'robot', 'mine', 'stone', 'demon', 'pen']
+epoch: 1, iter: 86000, loss: 30.465761184692383
+epoch: 1, iter: 87000, loss: 30.51696014404297
+epoch: 1, iter: 88000, loss: 30.341720581054688
+epoch: 1, iter: 89000, loss: 29.931568145751953
+epoch: 1, iter: 90000, loss: 30.01618194580078
+epoch: 1, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.1664546691880131, pvalue=2.3329423645216364e-07), men: SpearmanrResult(correlation=0.16632378233630532, pvalue=1.789583873850285e-17), sim353: SpearmanrResult(correlation=0.27892507357906604, pvalue=4.126252801621627e-07), nearest to monster: ['monster', 'clown', 'giant', 'bird', 'robot', 'mine', 'blade', 'ghost', 'pen', 'demon']
+epoch: 1, iter: 91000, loss: 30.07570457458496
+epoch: 1, iter: 92000, loss: 30.361379623413086
+epoch: 1, iter: 93000, loss: 30.220731735229492
+epoch: 1, iter: 94000, loss: 30.510345458984375
+epoch: 1, iter: 95000, loss: 30.363859176635742
+epoch: 1, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.16798312992542128, pvalue=1.8008463722210034e-07), men: SpearmanrResult(correlation=0.16915594401583295, pvalue=4.987632443289749e-18), sim353: SpearmanrResult(correlation=0.2793294995294929, pvalue=3.963833696644027e-07), nearest to monster: ['monster', 'giant', 'clown', 'bird', 'blade', 'robot', 'pen', 'mine', 'ghost', 'melody']
+epoch: 1, iter: 96000, loss: 30.44140625
+epoch: 1, iter: 97000, loss: 30.221351623535156
+epoch: 1, iter: 98000, loss: 30.014293670654297
+epoch: 1, iter: 99000, loss: 29.669483184814453
+epoch: 1, iter: 100000, loss: 30.246055603027344
+epoch: 1, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.16809624916390734, pvalue=1.766507501727826e-07), men: SpearmanrResult(correlation=0.16903792367265524, pvalue=5.262708666383791e-18), sim353: SpearmanrResult(correlation=0.27737150862781473, pvalue=4.811641782096251e-07), nearest to monster: ['monster', 'clown', 'giant', 'bird', 'robot', 'ghost', 'blade', 'mine', 'melody', 'pen']
+epoch: 1, iter: 101000, loss: 29.796586990356445
+epoch: 1, iter: 102000, loss: 30.09895896911621
+epoch: 1, iter: 103000, loss: 30.629602432250977
+epoch: 1, iter: 104000, loss: 30.52261734008789
+epoch: 1, iter: 105000, loss: 30.302621841430664
+epoch: 1, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.16920433948912736, pvalue=1.4618914612137737e-07), men: SpearmanrResult(correlation=0.1702489570421389, pvalue=3.0281028117646506e-18), sim353: SpearmanrResult(correlation=0.27842194403744724, pvalue=4.337244701310316e-07), nearest to monster: ['monster', 'clown', 'giant', 'robot', 'blade', 'ghost', 'bird', 'melody', 'stone', 'elf']
+epoch: 1, iter: 106000, loss: 30.53769874572754
+epoch: 1, iter: 107000, loss: 30.02518081665039
+epoch: 1, iter: 108000, loss: 30.359487533569336
+epoch: 1, iter: 109000, loss: 30.374980926513672
+epoch: 1, iter: 110000, loss: 30.249067306518555
+epoch: 1, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.17041364212828633, pvalue=1.1873880399898018e-07), men: SpearmanrResult(correlation=0.17128522348052483, pvalue=1.8808963271511173e-18), sim353: SpearmanrResult(correlation=0.2743954289990108, pvalue=6.441658389437555e-07), nearest to monster: ['monster', 'clown', 'giant', 'blade', 'robot', 'melody', 'mirror', 'stone', 'triangle', 'ghost']
+epoch: 1, iter: 111000, loss: 29.90481948852539
+epoch: 1, iter: 112000, loss: 30.523033142089844
+epoch: 1, iter: 113000, loss: 30.797101974487305
+epoch: 1, iter: 114000, loss: 30.09051513671875
+epoch: 1, iter: 115000, loss: 31.022018432617188
+epoch: 1, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.17325980481909947, pvalue=7.235673709497372e-08), men: SpearmanrResult(correlation=0.17360118930300042, pvalue=6.419053784822249e-19), sim353: SpearmanrResult(correlation=0.27671477855383547, pvalue=5.133124721864041e-07), nearest to monster: ['monster', 'clown', 'giant', 'robot', 'blade', 'melody', 'stone', 'cow', 'bird', 'ghost']
+epoch: 1, iter: 116000, loss: 30.039867401123047
+epoch: 1, iter: 117000, loss: 29.86957550048828
+epoch: 1, iter: 118000, loss: 29.990131378173828
+epoch: 1, iter: 119000, loss: 30.243196487426758
+epoch: 2, iter: 0, loss: 30.314687728881836
+epoch: 2, iteration: 0, simlex-999: SpearmanrResult(correlation=0.17562215108828336, pvalue=4.766751796129351e-08), men: SpearmanrResult(correlation=0.17421638920061863, pvalue=4.812319369251572e-19), sim353: SpearmanrResult(correlation=0.28064406870656594, pvalue=3.4772336416431684e-07), nearest to monster: ['monster', 'giant', 'clown', 'robot', 'stone', 'melody', 'cow', 'blade', 'pen', 'bird']
+epoch: 2, iter: 1000, loss: 29.9892578125
+epoch: 2, iter: 2000, loss: 30.28236198425293
+epoch: 2, iter: 3000, loss: 30.061622619628906
+epoch: 2, iter: 4000, loss: 29.880577087402344
+epoch: 2, iter: 5000, loss: 29.972476959228516
+epoch: 2, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.17682109477219213, pvalue=3.8484674040941164e-08), men: SpearmanrResult(correlation=0.17614942400263675, pvalue=1.9329899771496573e-19), sim353: SpearmanrResult(correlation=0.2809590329750885, pvalue=3.369470122836103e-07), nearest to monster: ['monster', 'clown', 'giant', 'stone', 'robot', 'melody', 'blade', 'finger', 'triangle', 'pen']
+epoch: 2, iter: 6000, loss: 30.056377410888672
+epoch: 2, iter: 7000, loss: 30.313249588012695
+epoch: 2, iter: 8000, loss: 29.88211441040039
+epoch: 2, iter: 9000, loss: 30.465457916259766
+epoch: 2, iter: 10000, loss: 30.360071182250977
+epoch: 2, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.17668928242233065, pvalue=3.940362778558522e-08), men: SpearmanrResult(correlation=0.17787076696028944, pvalue=8.50465824093762e-20), sim353: SpearmanrResult(correlation=0.28210502972675505, pvalue=3.0038083741107013e-07), nearest to monster: ['monster', 'giant', 'clown', 'stone', 'robot', 'melody', 'blade', 'cow', 'hammer', 'pen']
+epoch: 2, iter: 11000, loss: 30.224082946777344
+epoch: 2, iter: 12000, loss: 30.326030731201172
+epoch: 2, iter: 13000, loss: 30.231674194335938
+epoch: 2, iter: 14000, loss: 30.17203140258789
+epoch: 2, iter: 15000, loss: 30.465660095214844
+epoch: 2, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.17658659815544417, pvalue=4.0134196218112516e-08), men: SpearmanrResult(correlation=0.17907716231486914, pvalue=4.759930450720928e-20), sim353: SpearmanrResult(correlation=0.28481401817714636, pvalue=2.2847909292530446e-07), nearest to monster: ['monster', 'giant', 'clown', 'melody', 'stone', 'robot', 'hammer', 'cow', 'blade', 'finger']
+epoch: 2, iter: 16000, loss: 30.564311981201172
+epoch: 2, iter: 17000, loss: 30.214855194091797
+epoch: 2, iter: 18000, loss: 30.173900604248047
+epoch: 2, iter: 19000, loss: 29.82270050048828
+epoch: 2, iter: 20000, loss: 30.454238891601562
+epoch: 2, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.17572773779760154, pvalue=4.678036790985364e-08), men: SpearmanrResult(correlation=0.1809304827096881, pvalue=1.9360448505532976e-20), sim353: SpearmanrResult(correlation=0.28672506017964333, pvalue=1.8804554006273442e-07), nearest to monster: ['monster', 'giant', 'clown', 'stone', 'melody', 'blade', 'robot', 'hammer', 'finger', 'warrior']
+epoch: 2, iter: 21000, loss: 30.063373565673828
+epoch: 2, iter: 22000, loss: 30.194778442382812
+epoch: 2, iter: 23000, loss: 30.185312271118164
+epoch: 2, iter: 24000, loss: 30.421730041503906
+epoch: 2, iter: 25000, loss: 30.347558975219727
+epoch: 2, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.1773705035503441, pvalue=3.487293396420816e-08), men: SpearmanrResult(correlation=0.1815376084980751, pvalue=1.4388566535966268e-20), sim353: SpearmanrResult(correlation=0.28463084353506546, pvalue=2.3276669370449658e-07), nearest to monster: ['monster', 'giant', 'clown', 'melody', 'stone', 'blade', 'hammer', 'golem', 'robot', 'pen']
+epoch: 2, iter: 26000, loss: 29.954986572265625
+epoch: 2, iter: 27000, loss: 30.516021728515625
+epoch: 2, iter: 28000, loss: 30.054454803466797
+epoch: 2, iter: 29000, loss: 30.608909606933594
+epoch: 2, iter: 30000, loss: 30.4153995513916
+epoch: 2, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.17788882041588017, pvalue=3.1767911470757544e-08), men: SpearmanrResult(correlation=0.18227998796658199, pvalue=9.995173533828655e-21), sim353: SpearmanrResult(correlation=0.2871963975533127, pvalue=1.7918625489341186e-07), nearest to monster: ['monster', 'giant', 'clown', 'hammer', 'melody', 'blade', 'golem', 'elf', 'stone', 'snake']
+epoch: 2, iter: 31000, loss: 30.053354263305664
+epoch: 2, iter: 32000, loss: 30.024831771850586
+epoch: 2, iter: 33000, loss: 30.10633087158203
+epoch: 2, iter: 34000, loss: 30.018863677978516
+epoch: 2, iter: 35000, loss: 30.138338088989258
+epoch: 2, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.17892477813609575, pvalue=2.6344190299116892e-08), men: SpearmanrResult(correlation=0.18417573726885042, pvalue=3.914454095675628e-21), sim353: SpearmanrResult(correlation=0.28829526056761234, pvalue=1.6006409908093936e-07), nearest to monster: ['monster', 'giant', 'clown', 'hammer', 'stone', 'melody', 'robot', 'golem', 'snake', 'blade']
+epoch: 2, iter: 36000, loss: 29.99155044555664
+epoch: 2, iter: 37000, loss: 30.014263153076172
+epoch: 2, iter: 38000, loss: 30.677684783935547
+epoch: 2, iter: 39000, loss: 30.13025665283203
+epoch: 2, iter: 40000, loss: 30.519750595092773
+epoch: 2, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.17844906091096635, pvalue=2.8713035506951914e-08), men: SpearmanrResult(correlation=0.18510486669516252, pvalue=2.463341722638007e-21), sim353: SpearmanrResult(correlation=0.2910950045672082, pvalue=1.19805295648446e-07), nearest to monster: ['monster', 'giant', 'clown', 'hammer', 'robot', 'golem', 'snake', 'melody', 'triangle', 'blade']
+epoch: 2, iter: 41000, loss: 29.776996612548828
+epoch: 2, iter: 42000, loss: 30.188955307006836
+epoch: 2, iter: 43000, loss: 30.058624267578125
+epoch: 2, iter: 44000, loss: 29.787574768066406
+epoch: 2, iter: 45000, loss: 30.199642181396484
+epoch: 2, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.18063438583412675, pvalue=1.929610265231234e-08), men: SpearmanrResult(correlation=0.18727966992624806, pvalue=8.251771276602221e-22), sim353: SpearmanrResult(correlation=0.2919663317748463, pvalue=1.0940606190752016e-07), nearest to monster: ['monster', 'giant', 'clown', 'hammer', 'robot', 'blade', 'snake', 'melody', 'golem', 'triangle']
+epoch: 2, iter: 46000, loss: 29.867996215820312
+epoch: 2, iter: 47000, loss: 30.180313110351562
+epoch: 2, iter: 48000, loss: 30.418750762939453
+epoch: 2, iter: 49000, loss: 29.88807487487793
+epoch: 2, iter: 50000, loss: 30.296079635620117
+epoch: 2, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.18403681543812556, pvalue=1.0291862575020062e-08), men: SpearmanrResult(correlation=0.18883940390068374, pvalue=3.7351489372566887e-22), sim353: SpearmanrResult(correlation=0.2957832403106392, pvalue=7.32373086167928e-08), nearest to monster: ['monster', 'giant', 'clown', 'snake', 'robot', 'blade', 'hammer', 'melody', 'cow', 'golem']
+epoch: 2, iter: 51000, loss: 30.08908462524414
+epoch: 2, iter: 52000, loss: 30.142553329467773
+epoch: 2, iter: 53000, loss: 30.24380111694336
+epoch: 2, iter: 54000, loss: 30.41161346435547
+epoch: 2, iter: 55000, loss: 30.156753540039062
+epoch: 2, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.18335304555350038, pvalue=1.1688729611419092e-08), men: SpearmanrResult(correlation=0.19057369155078438, pvalue=1.534659750137079e-22), sim353: SpearmanrResult(correlation=0.29785878829845597, pvalue=5.873190375325852e-08), nearest to monster: ['monster', 'giant', 'clown', 'robot', 'hammer', 'snake', 'blade', 'melody', 'stone', 'cow']
+epoch: 2, iter: 56000, loss: 29.80782699584961
+epoch: 2, iter: 57000, loss: 30.62346076965332
+epoch: 2, iter: 58000, loss: 30.326589584350586
+epoch: 2, iter: 59000, loss: 30.04287338256836
+epoch: 2, iter: 60000, loss: 30.31776237487793
+epoch: 2, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.18297069304835217, pvalue=1.2548279386029865e-08), men: SpearmanrResult(correlation=0.1918257739074187, pvalue=8.031686040311593e-23), sim353: SpearmanrResult(correlation=0.2947902895767758, pvalue=8.134363080220915e-08), nearest to monster: ['monster', 'giant', 'clown', 'robot', 'snake', 'blade', 'hammer', 'melody', 'cow', 'stone']
+epoch: 2, iter: 61000, loss: 30.61712646484375
+epoch: 2, iter: 62000, loss: 30.25351905822754
+epoch: 2, iter: 63000, loss: 29.72742462158203
+epoch: 2, iter: 64000, loss: 30.620113372802734
+epoch: 2, iter: 65000, loss: 30.13819694519043
+epoch: 2, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.18498157427079145, pvalue=8.625402199811082e-09), men: SpearmanrResult(correlation=0.1939976772963502, pvalue=2.5846527730283183e-23), sim353: SpearmanrResult(correlation=0.2945429760842387, pvalue=8.349337389559515e-08), nearest to monster: ['monster', 'giant', 'clown', 'robot', 'snake', 'hammer', 'blade', 'melody', 'cow', 'stone']
+epoch: 2, iter: 66000, loss: 30.162269592285156
+epoch: 2, iter: 67000, loss: 29.759775161743164
+epoch: 2, iter: 68000, loss: 30.285335540771484
+epoch: 2, iter: 69000, loss: 30.369199752807617
+epoch: 2, iter: 70000, loss: 30.57855796813965
+epoch: 2, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.18479842042600725, pvalue=8.92653045425389e-09), men: SpearmanrResult(correlation=0.19696282690426994, pvalue=5.378672060948724e-24), sim353: SpearmanrResult(correlation=0.2958640145978131, pvalue=7.261327485536258e-08), nearest to monster: ['monster', 'giant', 'clown', 'robot', 'snake', 'hammer', 'melody', 'cow', 'golem', 'stone']
+epoch: 2, iter: 71000, loss: 29.81679344177246
+epoch: 2, iter: 72000, loss: 30.057289123535156
+epoch: 2, iter: 73000, loss: 30.363698959350586
+epoch: 2, iter: 74000, loss: 30.292875289916992
+epoch: 2, iter: 75000, loss: 30.020641326904297
+epoch: 2, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.18446162244088785, pvalue=9.507119646054227e-09), men: SpearmanrResult(correlation=0.19761364106114898, pvalue=3.798182442328593e-24), sim353: SpearmanrResult(correlation=0.29787967501344603, pvalue=5.860107424132221e-08), nearest to monster: ['monster', 'giant', 'clown', 'robot', 'hammer', 'snake', 'golem', 'melody', 'stone', 'cow']
+epoch: 2, iter: 76000, loss: 30.150657653808594
+epoch: 2, iter: 77000, loss: 30.179698944091797
+epoch: 2, iter: 78000, loss: 30.15259552001953
+epoch: 2, iter: 79000, loss: 30.26480484008789
+epoch: 2, iter: 80000, loss: 30.370830535888672
+epoch: 2, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.18526947582828232, pvalue=8.17188567815803e-09), men: SpearmanrResult(correlation=0.19801144118806088, pvalue=3.0687251729468482e-24), sim353: SpearmanrResult(correlation=0.2964876586365426, pvalue=6.796481113407427e-08), nearest to monster: ['monster', 'giant', 'robot', 'clown', 'hammer', 'snake', 'golem', 'melody', 'stone', 'dodo']
+epoch: 2, iter: 81000, loss: 29.140342712402344
+epoch: 2, iter: 82000, loss: 30.00469207763672
+epoch: 2, iter: 83000, loss: 30.066526412963867
+epoch: 2, iter: 84000, loss: 30.0211124420166
+epoch: 2, iter: 85000, loss: 29.86471176147461
+epoch: 2, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.1861681134685934, pvalue=6.900269601142933e-09), men: SpearmanrResult(correlation=0.19908131652500125, pvalue=1.7253683975152532e-24), sim353: SpearmanrResult(correlation=0.2987888940491635, pvalue=5.317054831872188e-08), nearest to monster: ['monster', 'giant', 'robot', 'clown', 'hammer', 'snake', 'golem', 'cow', 'melody', 'dodo']
+epoch: 2, iter: 86000, loss: 29.151453018188477
+epoch: 2, iter: 87000, loss: 30.192829132080078
+epoch: 2, iter: 88000, loss: 30.531829833984375
+epoch: 2, iter: 89000, loss: 30.349224090576172
+epoch: 2, iter: 90000, loss: 30.148548126220703
+epoch: 2, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.18557369325858558, pvalue=7.717835629754256e-09), men: SpearmanrResult(correlation=0.20005849640361523, pvalue=1.016763154176253e-24), sim353: SpearmanrResult(correlation=0.30086518138972335, pvalue=4.252815761858216e-08), nearest to monster: ['monster', 'giant', 'robot', 'clown', 'snake', 'hammer', 'stone', 'golem', 'dodo', 'cow']
+epoch: 2, iter: 91000, loss: 30.15459632873535
+epoch: 2, iter: 92000, loss: 30.69862174987793
+epoch: 2, iter: 93000, loss: 29.847503662109375
+epoch: 2, iter: 94000, loss: 30.490676879882812
+epoch: 2, iter: 95000, loss: 30.09197235107422
+epoch: 2, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.18693515298693675, pvalue=5.968710257367306e-09), men: SpearmanrResult(correlation=0.2007333642351272, pvalue=7.045464856611969e-25), sim353: SpearmanrResult(correlation=0.300238395101836, pvalue=4.550274716784654e-08), nearest to monster: ['monster', 'giant', 'robot', 'clown', 'snake', 'hammer', 'stone', 'cow', 'melody', 'golem']
+epoch: 2, iter: 96000, loss: 30.31153106689453
+epoch: 2, iter: 97000, loss: 29.84630584716797
+epoch: 2, iter: 98000, loss: 30.308330535888672
+epoch: 2, iter: 99000, loss: 30.85759925842285
+epoch: 2, iter: 100000, loss: 30.22728157043457
+epoch: 2, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.18709869179680738, pvalue=5.786518428650022e-09), men: SpearmanrResult(correlation=0.20280002582873213, pvalue=2.272440058817094e-25), sim353: SpearmanrResult(correlation=0.3027359286677262, pvalue=3.472391244851154e-08), nearest to monster: ['monster', 'giant', 'robot', 'clown', 'snake', 'hammer', 'golem', 'stone', 'melody', 'dodo']
+epoch: 2, iter: 101000, loss: 29.750375747680664
+epoch: 2, iter: 102000, loss: 30.217056274414062
+epoch: 2, iter: 103000, loss: 29.946002960205078
+epoch: 2, iter: 104000, loss: 30.186603546142578
+epoch: 2, iter: 105000, loss: 29.63015365600586
+epoch: 2, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.18795242170048376, pvalue=4.919714946613511e-09), men: SpearmanrResult(correlation=0.20429685622836027, pvalue=9.936081992753989e-26), sim353: SpearmanrResult(correlation=0.3014307862381265, pvalue=4.0005678344554564e-08), nearest to monster: ['monster', 'giant', 'snake', 'hammer', 'robot', 'clown', 'golem', 'stone', 'dodo', 'melody']
+epoch: 2, iter: 106000, loss: 30.23918914794922
+epoch: 2, iter: 107000, loss: 29.922250747680664
+epoch: 2, iter: 108000, loss: 29.819568634033203
+epoch: 2, iter: 109000, loss: 29.379108428955078
+epoch: 2, iter: 110000, loss: 30.21075439453125
+epoch: 2, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.18907455712448162, pvalue=3.970148055394497e-09), men: SpearmanrResult(correlation=0.2065631815062234, pvalue=2.8045252669718266e-26), sim353: SpearmanrResult(correlation=0.3025971151902259, pvalue=3.5251969602401094e-08), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'clown', 'robot', 'dodo', 'golem', 'devil', 'cow']
+epoch: 2, iter: 111000, loss: 30.60986328125
+epoch: 2, iter: 112000, loss: 29.726787567138672
+epoch: 2, iter: 113000, loss: 30.833534240722656
+epoch: 2, iter: 114000, loss: 29.379169464111328
+epoch: 2, iter: 115000, loss: 30.005599975585938
+epoch: 2, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.1890596924728851, pvalue=3.981476150551961e-09), men: SpearmanrResult(correlation=0.20872147449264503, pvalue=8.291826701156647e-27), sim353: SpearmanrResult(correlation=0.30396214519200954, pvalue=3.03793033666385e-08), nearest to monster: ['monster', 'giant', 'hammer', 'clown', 'robot', 'snake', 'stone', 'devil', 'dodo', 'cow']
+epoch: 2, iter: 116000, loss: 29.852005004882812
+epoch: 2, iter: 117000, loss: 29.855836868286133
+epoch: 2, iter: 118000, loss: 29.524944305419922
+epoch: 2, iter: 119000, loss: 30.359649658203125
+epoch: 3, iter: 0, loss: 29.801223754882812
+epoch: 3, iteration: 0, simlex-999: SpearmanrResult(correlation=0.1901044335367451, pvalue=3.2571053633813677e-09), men: SpearmanrResult(correlation=0.209675648649066, pvalue=4.817321346368718e-27), sim353: SpearmanrResult(correlation=0.3023969354350558, pvalue=3.602713911642252e-08), nearest to monster: ['monster', 'giant', 'hammer', 'clown', 'robot', 'snake', 'dodo', 'cow', 'stone', 'golem']
+epoch: 3, iter: 1000, loss: 29.974884033203125
+epoch: 3, iter: 2000, loss: 29.96501350402832
+epoch: 3, iter: 3000, loss: 30.04299545288086
+epoch: 3, iter: 4000, loss: 29.98879051208496
+epoch: 3, iter: 5000, loss: 29.75634002685547
+epoch: 3, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.1903836415880954, pvalue=3.0863199182099454e-09), men: SpearmanrResult(correlation=0.211444830250376, pvalue=1.7476435000445203e-27), sim353: SpearmanrResult(correlation=0.3050231163782299, pvalue=2.7047878489307047e-08), nearest to monster: ['monster', 'giant', 'hammer', 'clown', 'robot', 'snake', 'dodo', 'cow', 'melody', 'devil']
+epoch: 3, iter: 6000, loss: 29.78565216064453
+epoch: 3, iter: 7000, loss: 29.990400314331055
+epoch: 3, iter: 8000, loss: 29.576534271240234
+epoch: 3, iter: 9000, loss: 29.64847755432129
+epoch: 3, iter: 10000, loss: 30.400650024414062
+epoch: 3, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.19044655548309064, pvalue=3.049056200679147e-09), men: SpearmanrResult(correlation=0.21255340294302286, pvalue=9.215018875266922e-28), sim353: SpearmanrResult(correlation=0.3052528702431204, pvalue=2.6374417216850558e-08), nearest to monster: ['monster', 'giant', 'hammer', 'robot', 'clown', 'snake', 'devil', 'cow', 'dodo', 'demon']
+epoch: 3, iter: 11000, loss: 29.57204818725586
+epoch: 3, iter: 12000, loss: 30.317407608032227
+epoch: 3, iter: 13000, loss: 30.213468551635742
+epoch: 3, iter: 14000, loss: 29.786602020263672
+epoch: 3, iter: 15000, loss: 29.840179443359375
+epoch: 3, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.18885117962647785, pvalue=4.1437295073100775e-09), men: SpearmanrResult(correlation=0.2151706188141255, pvalue=2.0046990035829049e-28), sim353: SpearmanrResult(correlation=0.30350966131328694, pvalue=3.19176036539179e-08), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'clown', 'robot', 'cow', 'devil', 'dodo', 'demon']
+epoch: 3, iter: 16000, loss: 29.84808349609375
+epoch: 3, iter: 17000, loss: 29.917110443115234
+epoch: 3, iter: 18000, loss: 30.301593780517578
+epoch: 3, iter: 19000, loss: 30.21363639831543
+epoch: 3, iter: 20000, loss: 30.135969161987305
+epoch: 3, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.18984071208894102, pvalue=3.426833453008037e-09), men: SpearmanrResult(correlation=0.21617068728917926, pvalue=1.1132865871317889e-28), sim353: SpearmanrResult(correlation=0.30593288992850454, pvalue=2.4474674630534848e-08), nearest to monster: ['monster', 'giant', 'hammer', 'clown', 'snake', 'robot', 'devil', 'vampire', 'killer', 'dodo']
+epoch: 3, iter: 21000, loss: 30.213634490966797
+epoch: 3, iter: 22000, loss: 29.712413787841797
+epoch: 3, iter: 23000, loss: 29.587820053100586
+epoch: 3, iter: 24000, loss: 30.272130966186523
+epoch: 3, iter: 25000, loss: 29.953533172607422
+epoch: 3, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.1890538046610951, pvalue=3.985971830038423e-09), men: SpearmanrResult(correlation=0.21737867075974968, pvalue=5.449398164098878e-29), sim353: SpearmanrResult(correlation=0.3066206728176903, pvalue=2.2687987740171744e-08), nearest to monster: ['monster', 'giant', 'hammer', 'robot', 'clown', 'snake', 'devil', 'vampire', 'killer', 'cow']
+epoch: 3, iter: 26000, loss: 30.154586791992188
+epoch: 3, iter: 27000, loss: 30.212732315063477
+epoch: 3, iter: 28000, loss: 29.91741180419922
+epoch: 3, iter: 29000, loss: 30.3839111328125
+epoch: 3, iter: 30000, loss: 30.544330596923828
+epoch: 3, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.19023132555562722, pvalue=3.1783790541534476e-09), men: SpearmanrResult(correlation=0.2185066887372141, pvalue=2.7857162208958764e-29), sim353: SpearmanrResult(correlation=0.3069992214221117, pvalue=2.175907277445341e-08), nearest to monster: ['monster', 'giant', 'hammer', 'robot', 'clown', 'vampire', 'devil', 'snake', 'killer', 'dodo']
+epoch: 3, iter: 31000, loss: 29.578231811523438
+epoch: 3, iter: 32000, loss: 30.01798439025879
+epoch: 3, iter: 33000, loss: 30.060352325439453
+epoch: 3, iter: 34000, loss: 29.92776870727539
+epoch: 3, iter: 35000, loss: 29.63158416748047
+epoch: 3, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.19160900440870968, pvalue=2.4342733021718747e-09), men: SpearmanrResult(correlation=0.21944226552873233, pvalue=1.5922054453435473e-29), sim353: SpearmanrResult(correlation=0.3085799575866687, pvalue=1.8261985717975173e-08), nearest to monster: ['monster', 'giant', 'hammer', 'clown', 'robot', 'vampire', 'snake', 'dodo', 'devil', 'killer']
+epoch: 3, iter: 36000, loss: 30.474552154541016
+epoch: 3, iter: 37000, loss: 29.79326629638672
+epoch: 3, iter: 38000, loss: 29.850811004638672
+epoch: 3, iter: 39000, loss: 29.9670352935791
+epoch: 3, iter: 40000, loss: 29.8623104095459
+epoch: 3, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.19129012339450005, pvalue=2.5897468437784197e-09), men: SpearmanrResult(correlation=0.22154514398340674, pvalue=4.485763749401655e-30), sim353: SpearmanrResult(correlation=0.30912923282454663, pvalue=1.7179160650081388e-08), nearest to monster: ['monster', 'giant', 'hammer', 'clown', 'robot', 'snake', 'devil', 'dodo', 'vampire', 'killer']
+epoch: 3, iter: 41000, loss: 29.950069427490234
+epoch: 3, iter: 42000, loss: 30.258256912231445
+epoch: 3, iter: 43000, loss: 30.128995895385742
+epoch: 3, iter: 44000, loss: 30.072477340698242
+epoch: 3, iter: 45000, loss: 30.200897216796875
+epoch: 3, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.19224548930224516, pvalue=2.150620102219073e-09), men: SpearmanrResult(correlation=0.22223600073032626, pvalue=2.9501658449415547e-30), sim353: SpearmanrResult(correlation=0.3089291169195555, pvalue=1.7566275768733088e-08), nearest to monster: ['monster', 'giant', 'hammer', 'clown', 'robot', 'devil', 'snake', 'vampire', 'killer', 'cow']
+epoch: 3, iter: 46000, loss: 30.09708023071289
+epoch: 3, iter: 47000, loss: 30.23982048034668
+epoch: 3, iter: 48000, loss: 29.596405029296875
+epoch: 3, iter: 49000, loss: 29.645809173583984
+epoch: 3, iter: 50000, loss: 30.263765335083008
+epoch: 3, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.1921683879922208, pvalue=2.183188595504079e-09), men: SpearmanrResult(correlation=0.22467723445684465, pvalue=6.6345936281139e-31), sim353: SpearmanrResult(correlation=0.30865943800654233, pvalue=1.8101315524131205e-08), nearest to monster: ['monster', 'giant', 'hammer', 'robot', 'snake', 'clown', 'devil', 'cow', 'dodo', 'sword']
+epoch: 3, iter: 51000, loss: 29.912845611572266
+epoch: 3, iter: 52000, loss: 29.38302993774414
+epoch: 3, iter: 53000, loss: 29.84688949584961
+epoch: 3, iter: 54000, loss: 29.465049743652344
+epoch: 3, iter: 55000, loss: 30.237329483032227
+epoch: 3, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.19328270474751444, pvalue=1.7558585510468568e-09), men: SpearmanrResult(correlation=0.2257687551441881, pvalue=3.38506952194493e-31), sim353: SpearmanrResult(correlation=0.3131410246583018, pvalue=1.0951135409278679e-08), nearest to monster: ['monster', 'giant', 'hammer', 'robot', 'snake', 'devil', 'clown', 'cow', 'killer', 'sword']
+epoch: 3, iter: 56000, loss: 30.115333557128906
+epoch: 3, iter: 57000, loss: 29.666278839111328
+epoch: 3, iter: 58000, loss: 30.056625366210938
+epoch: 3, iter: 59000, loss: 29.493043899536133
+epoch: 3, iter: 60000, loss: 29.70718002319336
+epoch: 3, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.19391385467543748, pvalue=1.551163824880894e-09), men: SpearmanrResult(correlation=0.22671743754039017, pvalue=1.8806476181914504e-31), sim353: SpearmanrResult(correlation=0.31270887298001204, pvalue=1.149909041825453e-08), nearest to monster: ['monster', 'giant', 'hammer', 'devil', 'snake', 'robot', 'clown', 'dodo', 'sword', 'serpent']
+epoch: 3, iter: 61000, loss: 30.00326156616211
+epoch: 3, iter: 62000, loss: 30.15526580810547
+epoch: 3, iter: 63000, loss: 30.208255767822266
+epoch: 3, iter: 64000, loss: 30.41301918029785
+epoch: 3, iter: 65000, loss: 29.874961853027344
+epoch: 3, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.1946764852455155, pvalue=1.3346602220082932e-09), men: SpearmanrResult(correlation=0.22813933426728503, pvalue=7.754022175760097e-32), sim353: SpearmanrResult(correlation=0.3133687453031491, pvalue=1.0672641610829325e-08), nearest to monster: ['monster', 'giant', 'hammer', 'devil', 'snake', 'robot', 'clown', 'dodo', 'vampire', 'sword']
+epoch: 3, iter: 66000, loss: 30.32815170288086
+epoch: 3, iter: 67000, loss: 29.552398681640625
+epoch: 3, iter: 68000, loss: 29.89902114868164
+epoch: 3, iter: 69000, loss: 30.333660125732422
+epoch: 3, iter: 70000, loss: 29.853971481323242
+epoch: 3, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.1952069895268314, pvalue=1.201710705397799e-09), men: SpearmanrResult(correlation=0.22880716946174673, pvalue=5.10380727639449e-32), sim353: SpearmanrResult(correlation=0.31165880724675105, pvalue=1.2943312637413397e-08), nearest to monster: ['monster', 'giant', 'hammer', 'devil', 'snake', 'robot', 'clown', 'sword', 'dodo', 'vampire']
+epoch: 3, iter: 71000, loss: 29.549514770507812
+epoch: 3, iter: 72000, loss: 30.064525604248047
+epoch: 3, iter: 73000, loss: 29.936124801635742
+epoch: 3, iter: 74000, loss: 29.95387077331543
+epoch: 3, iter: 75000, loss: 29.42606544494629
+epoch: 3, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.1948908375296722, pvalue=1.2793018991807118e-09), men: SpearmanrResult(correlation=0.22960863152141045, pvalue=3.084254454385998e-32), sim353: SpearmanrResult(correlation=0.3122343933571849, pvalue=1.2131251375777396e-08), nearest to monster: ['monster', 'giant', 'hammer', 'devil', 'robot', 'clown', 'snake', 'sword', 'wolf', 'dodo']
+epoch: 3, iter: 76000, loss: 30.62244415283203
+epoch: 3, iter: 77000, loss: 29.824663162231445
+epoch: 3, iter: 78000, loss: 30.261768341064453
+epoch: 3, iter: 79000, loss: 29.665082931518555
+epoch: 3, iter: 80000, loss: 29.81271743774414
+epoch: 3, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.19512519593487582, pvalue=1.2213338710675246e-09), men: SpearmanrResult(correlation=0.23104642437899767, pvalue=1.243447740730033e-32), sim353: SpearmanrResult(correlation=0.31441659297818103, pvalue=9.477036192799055e-09), nearest to monster: ['monster', 'giant', 'hammer', 'devil', 'snake', 'clown', 'robot', 'dodo', 'serpent', 'vampire']
+epoch: 3, iter: 81000, loss: 29.666793823242188
+epoch: 3, iter: 82000, loss: 30.046554565429688
+epoch: 3, iter: 83000, loss: 29.789947509765625
+epoch: 3, iter: 84000, loss: 29.84963607788086
+epoch: 3, iter: 85000, loss: 30.311023712158203
+epoch: 3, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.19554730090194578, pvalue=1.1233099655646125e-09), men: SpearmanrResult(correlation=0.23307322413439188, pvalue=3.418896753946372e-33), sim353: SpearmanrResult(correlation=0.31451178464384366, pvalue=9.375081880921019e-09), nearest to monster: ['monster', 'giant', 'hammer', 'devil', 'snake', 'robot', 'clown', 'dodo', 'serpent', 'sword']
+epoch: 3, iter: 86000, loss: 29.989194869995117
+epoch: 3, iter: 87000, loss: 29.914091110229492
+epoch: 3, iter: 88000, loss: 29.521442413330078
+epoch: 3, iter: 89000, loss: 30.02251434326172
+epoch: 3, iter: 90000, loss: 29.605018615722656
+epoch: 3, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.19651113983831134, pvalue=9.273184302054902e-10), men: SpearmanrResult(correlation=0.23384589486624338, pvalue=2.0830355668268173e-33), sim353: SpearmanrResult(correlation=0.3157126783366789, pvalue=8.176581212617078e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'devil', 'robot', 'clown', 'dodo', 'sword', 'serpent']
+epoch: 3, iter: 91000, loss: 29.885578155517578
+epoch: 3, iter: 92000, loss: 30.427583694458008
+epoch: 3, iter: 93000, loss: 29.997730255126953
+epoch: 3, iter: 94000, loss: 30.047626495361328
+epoch: 3, iter: 95000, loss: 29.657808303833008
+epoch: 3, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.19630066438797408, pvalue=9.670500005738703e-10), men: SpearmanrResult(correlation=0.23580935931411437, pvalue=5.865927600043188e-34), sim353: SpearmanrResult(correlation=0.3172196640651204, pvalue=6.8810336944055894e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'devil', 'robot', 'sword', 'clown', 'dodo', 'blade']
+epoch: 3, iter: 96000, loss: 30.393070220947266
+epoch: 3, iter: 97000, loss: 30.209293365478516
+epoch: 3, iter: 98000, loss: 30.17783546447754
+epoch: 3, iter: 99000, loss: 30.343225479125977
+epoch: 3, iter: 100000, loss: 30.17284393310547
+epoch: 3, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.19779460679217695, pvalue=7.172785725485855e-10), men: SpearmanrResult(correlation=0.23681165655099357, pvalue=3.057970827768156e-34), sim353: SpearmanrResult(correlation=0.31782926040173276, pvalue=6.415490797114891e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'devil', 'sword', 'robot', 'dodo', 'clown', 'cow']
+epoch: 3, iter: 101000, loss: 29.86379623413086
+epoch: 3, iter: 102000, loss: 30.017549514770508
+epoch: 3, iter: 103000, loss: 30.2300968170166
+epoch: 3, iter: 104000, loss: 30.15020751953125
+epoch: 3, iter: 105000, loss: 29.21636962890625
+epoch: 3, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.19777140798445517, pvalue=7.206271680384141e-10), men: SpearmanrResult(correlation=0.2386314033614391, pvalue=9.298402284650556e-35), sim353: SpearmanrResult(correlation=0.3198957513184477, pvalue=5.053429339008379e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'devil', 'sword', 'robot', 'dodo', 'clown', 'serpent']
+epoch: 3, iter: 106000, loss: 29.62126922607422
+epoch: 3, iter: 107000, loss: 30.38532829284668
+epoch: 3, iter: 108000, loss: 29.888153076171875
+epoch: 3, iter: 109000, loss: 30.00098419189453
+epoch: 3, iter: 110000, loss: 29.882427215576172
+epoch: 3, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.19759671550295418, pvalue=7.463365653121387e-10), men: SpearmanrResult(correlation=0.24080986524022321, pvalue=2.2064655844573126e-35), sim353: SpearmanrResult(correlation=0.31968614481580415, pvalue=5.177674966898096e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'devil', 'sword', 'robot', 'dodo', 'serpent', 'cow']
+epoch: 3, iter: 111000, loss: 29.78229522705078
+epoch: 3, iter: 112000, loss: 29.180442810058594
+epoch: 3, iter: 113000, loss: 30.040115356445312
+epoch: 3, iter: 114000, loss: 30.10077667236328
+epoch: 3, iter: 115000, loss: 29.453590393066406
+epoch: 3, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.1985972703360805, pvalue=6.103094701178548e-10), men: SpearmanrResult(correlation=0.24271158202980975, pvalue=6.211452650604481e-36), sim353: SpearmanrResult(correlation=0.3212356433269689, pvalue=4.324773125404056e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'devil', 'sword', 'dodo', 'robot', 'clown', 'cow']
+epoch: 3, iter: 116000, loss: 30.54827880859375
+epoch: 3, iter: 117000, loss: 29.54640769958496
+epoch: 3, iter: 118000, loss: 30.250221252441406
+epoch: 3, iter: 119000, loss: 29.65865707397461
+epoch: 4, iter: 0, loss: 30.32562255859375
+epoch: 4, iteration: 0, simlex-999: SpearmanrResult(correlation=0.1983385936096457, pvalue=6.42962565896948e-10), men: SpearmanrResult(correlation=0.2440800664950175, pvalue=2.477803782386613e-36), sim353: SpearmanrResult(correlation=0.3207138451285891, pvalue=4.59554894689577e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'sword', 'cow', 'robot', 'dodo', 'clown', 'devil']
+epoch: 4, iter: 1000, loss: 30.092090606689453
+epoch: 4, iter: 2000, loss: 30.186487197875977
+epoch: 4, iter: 3000, loss: 30.230899810791016
+epoch: 4, iter: 4000, loss: 30.50757598876953
+epoch: 4, iter: 5000, loss: 30.397512435913086
+epoch: 4, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.19744464134068865, pvalue=7.694428153927212e-10), men: SpearmanrResult(correlation=0.24455936495044497, pvalue=1.7934353462539603e-36), sim353: SpearmanrResult(correlation=0.3225836682156632, pvalue=3.6948292476236994e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'cow', 'sword', 'ness', 'dodo', 'serpent', 'robot']
+epoch: 4, iter: 6000, loss: 29.865705490112305
+epoch: 4, iter: 7000, loss: 29.943647384643555
+epoch: 4, iter: 8000, loss: 30.234424591064453
+epoch: 4, iter: 9000, loss: 29.8004150390625
+epoch: 4, iter: 10000, loss: 29.91515350341797
+epoch: 4, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.1974649515271332, pvalue=7.663170340124331e-10), men: SpearmanrResult(correlation=0.24543233000257347, pvalue=9.936078630183019e-37), sim353: SpearmanrResult(correlation=0.3242934214338755, pvalue=3.0226893488030434e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'cow', 'sword', 'ness', 'dodo', 'robot', 'whale']
+epoch: 4, iter: 11000, loss: 29.657690048217773
+epoch: 4, iter: 12000, loss: 29.740379333496094
+epoch: 4, iter: 13000, loss: 29.54161262512207
+epoch: 4, iter: 14000, loss: 29.68257713317871
+epoch: 4, iter: 15000, loss: 30.05453872680664
+epoch: 4, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.1965989249007152, pvalue=9.112210140236951e-10), men: SpearmanrResult(correlation=0.24693184257546422, pvalue=3.5833408403828067e-37), sim353: SpearmanrResult(correlation=0.32280288630396586, pvalue=3.6011748309133014e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'cow', 'sword', 'ness', 'robot', 'whale', 'dodo']
+epoch: 4, iter: 16000, loss: 30.211341857910156
+epoch: 4, iter: 17000, loss: 29.988880157470703
+epoch: 4, iter: 18000, loss: 30.013099670410156
+epoch: 4, iter: 19000, loss: 29.955625534057617
+epoch: 4, iter: 20000, loss: 29.81220817565918
+epoch: 4, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.1957756747472784, pvalue=1.073513369086581e-09), men: SpearmanrResult(correlation=0.2477648125119139, pvalue=2.0274137548644333e-37), sim353: SpearmanrResult(correlation=0.3210053349475211, pvalue=4.4423255601481724e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'cow', 'ness', 'robot', 'whale', 'sword', 'dodo']
+epoch: 4, iter: 21000, loss: 29.780906677246094
+epoch: 4, iter: 22000, loss: 29.945682525634766
+epoch: 4, iter: 23000, loss: 29.77729034423828
+epoch: 4, iter: 24000, loss: 29.90865135192871
+epoch: 4, iter: 25000, loss: 29.87784194946289
+epoch: 4, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.19748360317504532, pvalue=7.634574006748418e-10), men: SpearmanrResult(correlation=0.24880804164964465, pvalue=9.90482499675607e-38), sim353: SpearmanrResult(correlation=0.3237706990445669, pvalue=3.214483298902432e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'ness', 'cow', 'robot', 'sword', 'kryptonite', 'devil']
+epoch: 4, iter: 26000, loss: 29.59090805053711
+epoch: 4, iter: 27000, loss: 30.519298553466797
+epoch: 4, iter: 28000, loss: 30.14342498779297
+epoch: 4, iter: 29000, loss: 30.246288299560547
+epoch: 4, iter: 30000, loss: 30.129009246826172
+epoch: 4, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.1976288503698718, pvalue=7.41541183898634e-10), men: SpearmanrResult(correlation=0.2509245418727289, pvalue=2.2919021307245952e-38), sim353: SpearmanrResult(correlation=0.3245564461722016, pvalue=2.9304235206391367e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'robot', 'ness', 'dodo', 'sword', 'cow', 'eyed']
+epoch: 4, iter: 31000, loss: 30.021648406982422
+epoch: 4, iter: 32000, loss: 30.296104431152344
+epoch: 4, iter: 33000, loss: 29.735124588012695
+epoch: 4, iter: 34000, loss: 30.443578720092773
+epoch: 4, iter: 35000, loss: 30.467010498046875
+epoch: 4, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.1985711138013093, pvalue=6.13536396113781e-10), men: SpearmanrResult(correlation=0.25187476935245257, pvalue=1.1826268241877377e-38), sim353: SpearmanrResult(correlation=0.32421079876484404, pvalue=3.052248981555235e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'robot', 'ness', 'devil', 'eyed', 'sword', 'dodo']
+epoch: 4, iter: 36000, loss: 29.86041259765625
+epoch: 4, iter: 37000, loss: 29.86768341064453
+epoch: 4, iter: 38000, loss: 30.149261474609375
+epoch: 4, iter: 39000, loss: 30.01819610595703
+epoch: 4, iter: 40000, loss: 30.13102149963379
+epoch: 4, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.19771817580814274, pvalue=7.283685382049227e-10), men: SpearmanrResult(correlation=0.25375768791573794, pvalue=3.161159828125407e-39), sim353: SpearmanrResult(correlation=0.32349029951678004, pvalue=3.32217206326532e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'robot', 'ness', 'eyed', 'devil', 'cow', 'dodo']
+epoch: 4, iter: 41000, loss: 30.40561294555664
+epoch: 4, iter: 42000, loss: 29.845684051513672
+epoch: 4, iter: 43000, loss: 30.003520965576172
+epoch: 4, iter: 44000, loss: 29.700340270996094
+epoch: 4, iter: 45000, loss: 30.30400848388672
+epoch: 4, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.19725899559429672, pvalue=7.985955676090446e-10), men: SpearmanrResult(correlation=0.25513273701865224, pvalue=1.197736662849655e-39), sim353: SpearmanrResult(correlation=0.32319381906683275, pvalue=3.43983715702594e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'robot', 'ness', 'cow', 'sword', 'eyed', 'devil']
+epoch: 4, iter: 46000, loss: 30.031620025634766
+epoch: 4, iter: 47000, loss: 29.940710067749023
+epoch: 4, iter: 48000, loss: 29.77079963684082
+epoch: 4, iter: 49000, loss: 30.109664916992188
+epoch: 4, iter: 50000, loss: 30.334230422973633
+epoch: 4, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.19806458922294082, pvalue=6.794057809272279e-10), men: SpearmanrResult(correlation=0.2574963397747328, pvalue=2.22768439245064e-40), sim353: SpearmanrResult(correlation=0.3254102137521932, pvalue=2.649357975593531e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'ness', 'robot', 'eyed', 'sword', 'cow', 'dodo']
+epoch: 4, iter: 51000, loss: 29.845970153808594
+epoch: 4, iter: 52000, loss: 30.290306091308594
+epoch: 4, iter: 53000, loss: 29.56905746459961
+epoch: 4, iter: 54000, loss: 29.855295181274414
+epoch: 4, iter: 55000, loss: 29.987815856933594
+epoch: 4, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.1990802920413296, pvalue=5.536068172006963e-10), men: SpearmanrResult(correlation=0.25823329394784666, pvalue=1.3138007874480167e-40), sim353: SpearmanrResult(correlation=0.3249259377055212, pvalue=2.8054069977930127e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'robot', 'ness', 'cow', 'eyed', 'dodo', 'sword']
+epoch: 4, iter: 56000, loss: 30.056283950805664
+epoch: 4, iter: 57000, loss: 29.787612915039062
+epoch: 4, iter: 58000, loss: 29.65995979309082
+epoch: 4, iter: 59000, loss: 30.151268005371094
+epoch: 4, iter: 60000, loss: 30.06624984741211
+epoch: 4, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.1996444992077391, pvalue=4.938555977082422e-10), men: SpearmanrResult(correlation=0.2600026617014215, pvalue=3.672066905887135e-41), sim353: SpearmanrResult(correlation=0.3281186476880272, pvalue=1.920091850490192e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'ness', 'robot', 'eyed', 'devil', 'dodo', 'cow']
+epoch: 4, iter: 61000, loss: 30.20454216003418
+epoch: 4, iter: 62000, loss: 30.3477783203125
+epoch: 4, iter: 63000, loss: 30.16969871520996
+epoch: 4, iter: 64000, loss: 29.887718200683594
+epoch: 4, iter: 65000, loss: 29.4522705078125
+epoch: 4, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.19992703124673136, pvalue=4.66344592268185e-10), men: SpearmanrResult(correlation=0.2613952471148572, pvalue=1.337113524258041e-41), sim353: SpearmanrResult(correlation=0.32895929175683036, pvalue=1.7363806100768087e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'ness', 'robot', 'dodo', 'devil', 'eyed', 'cow']
+epoch: 4, iter: 66000, loss: 29.92612075805664
+epoch: 4, iter: 67000, loss: 29.910627365112305
+epoch: 4, iter: 68000, loss: 29.47261619567871
+epoch: 4, iter: 69000, loss: 30.548072814941406
+epoch: 4, iter: 70000, loss: 29.173490524291992
+epoch: 4, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.20032114837606727, pvalue=4.3044883614129576e-10), men: SpearmanrResult(correlation=0.262380461005819, pvalue=6.518730701076536e-42), sim353: SpearmanrResult(correlation=0.32917111631770296, pvalue=1.6928490515930718e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'ness', 'robot', 'dodo', 'eyed', 'cow', 'sword']
+epoch: 4, iter: 71000, loss: 30.082197189331055
+epoch: 4, iter: 72000, loss: 29.837074279785156
+epoch: 4, iter: 73000, loss: 29.482248306274414
+epoch: 4, iter: 74000, loss: 29.487323760986328
+epoch: 4, iter: 75000, loss: 29.399581909179688
+epoch: 4, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.20183771601008274, pvalue=3.157940176833204e-10), men: SpearmanrResult(correlation=0.26429794548851837, pvalue=1.596210357649637e-42), sim353: SpearmanrResult(correlation=0.3291086410109185, pvalue=1.7055769362999113e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'ness', 'robot', 'dodo', 'cow', 'kryptonite', 'eyed']
+epoch: 4, iter: 76000, loss: 30.11043930053711
+epoch: 4, iter: 77000, loss: 29.556255340576172
+epoch: 4, iter: 78000, loss: 29.95560073852539
+epoch: 4, iter: 79000, loss: 30.424606323242188
+epoch: 4, iter: 80000, loss: 29.431835174560547
+epoch: 4, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.20332151368692913, pvalue=2.326873162716379e-10), men: SpearmanrResult(correlation=0.265201968938068, pvalue=8.189045636760054e-43), sim353: SpearmanrResult(correlation=0.32911991614024944, pvalue=1.7032730493752104e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'ness', 'robot', 'dodo', 'sword', 'eyed', 'cow']
+epoch: 4, iter: 81000, loss: 29.70836067199707
+epoch: 4, iter: 82000, loss: 30.3630313873291
+epoch: 4, iter: 83000, loss: 29.72707748413086
+epoch: 4, iter: 84000, loss: 29.460430145263672
+epoch: 4, iter: 85000, loss: 29.68553924560547
+epoch: 4, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.20347502524925606, pvalue=2.2542038888513314e-10), men: SpearmanrResult(correlation=0.26635449949458384, pvalue=3.4838548746667554e-43), sim353: SpearmanrResult(correlation=0.33063984054169376, pvalue=1.4188281938614133e-09), nearest to monster: ['monster', 'giant', 'hammer', 'snake', 'ness', 'dodo', 'robot', 'sword', 'cow', 'serpent']
+epoch: 4, iter: 86000, loss: 29.863313674926758
+epoch: 4, iter: 87000, loss: 29.547306060791016
+epoch: 4, iter: 88000, loss: 30.03223419189453
+epoch: 4, iter: 89000, loss: 29.85801887512207
+epoch: 4, iter: 90000, loss: 30.44268035888672
+epoch: 4, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.20344949757701172, pvalue=2.2661328262064688e-10), men: SpearmanrResult(correlation=0.26727203144108913, pvalue=1.758951288730515e-43), sim353: SpearmanrResult(correlation=0.3325355409747732, pvalue=1.128090335242692e-09), nearest to monster: ['monster', 'giant', 'hammer', 'ness', 'snake', 'dodo', 'cow', 'devil', 'loch', 'sword']
+epoch: 4, iter: 91000, loss: 29.521249771118164
+epoch: 4, iter: 92000, loss: 29.44000816345215
+epoch: 4, iter: 93000, loss: 29.70585823059082
+epoch: 4, iter: 94000, loss: 30.345191955566406
+epoch: 4, iter: 95000, loss: 29.532323837280273
+epoch: 4, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.20375232598129414, pvalue=2.128504945098213e-10), men: SpearmanrResult(correlation=0.2679968470352203, pvalue=1.023205730339125e-43), sim353: SpearmanrResult(correlation=0.3364751820659058, pvalue=6.969448662348826e-10), nearest to monster: ['monster', 'giant', 'hammer', 'ness', 'snake', 'loch', 'devil', 'dodo', 'kryptonite', 'sword']
+epoch: 4, iter: 96000, loss: 29.71432876586914
+epoch: 4, iter: 97000, loss: 29.947330474853516
+epoch: 4, iter: 98000, loss: 30.087509155273438
+epoch: 4, iter: 99000, loss: 30.26398468017578
+epoch: 4, iter: 100000, loss: 30.390384674072266
+epoch: 4, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.2051671422763476, pvalue=1.5863074819324187e-10), men: SpearmanrResult(correlation=0.26921044416182277, pvalue=4.1149997342949035e-44), sim353: SpearmanrResult(correlation=0.3369814538566825, pvalue=6.547970189528942e-10), nearest to monster: ['monster', 'giant', 'hammer', 'ness', 'snake', 'loch', 'kryptonite', 'devil', 'cow', 'eyed']
+epoch: 4, iter: 101000, loss: 29.92304229736328
+epoch: 4, iter: 102000, loss: 29.80884552001953
+epoch: 4, iter: 103000, loss: 29.910070419311523
+epoch: 4, iter: 104000, loss: 30.588035583496094
+epoch: 4, iter: 105000, loss: 29.833311080932617
+epoch: 4, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.20478059913964297, pvalue=1.7193502926319054e-10), men: SpearmanrResult(correlation=0.27065923505977424, pvalue=1.3785675742624576e-44), sim353: SpearmanrResult(correlation=0.3386862164438794, pvalue=5.302971042855209e-10), nearest to monster: ['monster', 'giant', 'hammer', 'ness', 'snake', 'loch', 'devil', 'kryptonite', 'creature', 'cow']
+epoch: 4, iter: 106000, loss: 29.52726936340332
+epoch: 4, iter: 107000, loss: 29.439556121826172
+epoch: 4, iter: 108000, loss: 29.211742401123047
+epoch: 4, iter: 109000, loss: 29.10567283630371
+epoch: 4, iter: 110000, loss: 29.8135929107666
+epoch: 4, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.2043858393266258, pvalue=1.866439348198854e-10), men: SpearmanrResult(correlation=0.2721299178340961, pvalue=4.5114491990338524e-45), sim353: SpearmanrResult(correlation=0.33917271054878045, pvalue=4.992063415178195e-10), nearest to monster: ['monster', 'giant', 'hammer', 'ness', 'snake', 'loch', 'kryptonite', 'devil', 'creature', 'dodo']
+epoch: 4, iter: 111000, loss: 29.73077392578125
+epoch: 4, iter: 112000, loss: 29.914756774902344
+epoch: 4, iter: 113000, loss: 30.04053497314453
+epoch: 4, iter: 114000, loss: 30.31451416015625
+epoch: 4, iter: 115000, loss: 30.230695724487305
+epoch: 4, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.20418821754991456, pvalue=1.9446146499505132e-10), men: SpearmanrResult(correlation=0.2736607255516539, pvalue=1.4001025253579613e-45), sim353: SpearmanrResult(correlation=0.34221145032255457, pvalue=3.414684863207754e-10), nearest to monster: ['monster', 'giant', 'hammer', 'ness', 'snake', 'loch', 'devil', 'kryptonite', 'dodo', 'creature']
+epoch: 4, iter: 116000, loss: 29.4517822265625
+epoch: 4, iter: 117000, loss: 29.88580322265625
+epoch: 4, iter: 118000, loss: 30.130754470825195
+epoch: 4, iter: 119000, loss: 29.592571258544922
+epoch: 5, iter: 0, loss: 30.082212448120117
+epoch: 5, iteration: 0, simlex-999: SpearmanrResult(correlation=0.20431227623213716, pvalue=1.8951745156831143e-10), men: SpearmanrResult(correlation=0.27467896947635917, pvalue=6.402243614799557e-46), sim353: SpearmanrResult(correlation=0.34155952604140477, pvalue=3.7058240792209434e-10), nearest to monster: ['monster', 'giant', 'hammer', 'ness', 'snake', 'loch', 'devil', 'kryptonite', 'eyed', 'dodo']
+epoch: 5, iter: 1000, loss: 29.813884735107422
+epoch: 5, iter: 2000, loss: 29.973861694335938
+epoch: 5, iter: 3000, loss: 30.037046432495117
+epoch: 5, iter: 4000, loss: 30.154619216918945
+epoch: 5, iter: 5000, loss: 29.818937301635742
+epoch: 5, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.20467476364954498, pvalue=1.7576365369528408e-10), men: SpearmanrResult(correlation=0.2760284822141896, pvalue=2.2578937373495936e-46), sim353: SpearmanrResult(correlation=0.34393340286102647, pvalue=2.748500747728901e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'snake', 'loch', 'devil', 'kryptonite', 'creature', 'dodo']
+epoch: 5, iter: 6000, loss: 29.912620544433594
+epoch: 5, iter: 7000, loss: 29.37561798095703
+epoch: 5, iter: 8000, loss: 29.83107566833496
+epoch: 5, iter: 9000, loss: 29.647796630859375
+epoch: 5, iter: 10000, loss: 29.764110565185547
+epoch: 5, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.20477530288975035, pvalue=1.721246733698016e-10), men: SpearmanrResult(correlation=0.27752627366954574, pvalue=7.052458162503046e-47), sim353: SpearmanrResult(correlation=0.3431380441477327, pvalue=3.038807500751537e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'snake', 'loch', 'devil', 'creature', 'kryptonite', 'dodo']
+epoch: 5, iter: 11000, loss: 29.942773818969727
+epoch: 5, iter: 12000, loss: 29.507896423339844
+epoch: 5, iter: 13000, loss: 30.030353546142578
+epoch: 5, iter: 14000, loss: 30.022077560424805
+epoch: 5, iter: 15000, loss: 29.671768188476562
+epoch: 5, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.2052659082459513, pvalue=1.553958210066068e-10), men: SpearmanrResult(correlation=0.2779222631420223, pvalue=5.178485293083051e-47), sim353: SpearmanrResult(correlation=0.3449126755691441, pvalue=2.4279273874612085e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'snake', 'loch', 'devil', 'creature', 'kryptonite', 'dodo']
+epoch: 5, iter: 16000, loss: 30.088167190551758
+epoch: 5, iter: 17000, loss: 29.748191833496094
+epoch: 5, iter: 18000, loss: 29.560726165771484
+epoch: 5, iter: 19000, loss: 30.03387451171875
+epoch: 5, iter: 20000, loss: 30.008102416992188
+epoch: 5, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.20627387812843284, pvalue=1.2585250764419222e-10), men: SpearmanrResult(correlation=0.27948802031081005, pvalue=1.5193113825598104e-47), sim353: SpearmanrResult(correlation=0.34535702656769357, pvalue=2.29474572311342e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'snake', 'loch', 'devil', 'creature', 'kryptonite', 'pink']
+epoch: 5, iter: 21000, loss: 29.515300750732422
+epoch: 5, iter: 22000, loss: 29.885211944580078
+epoch: 5, iter: 23000, loss: 29.91008758544922
+epoch: 5, iter: 24000, loss: 30.057254791259766
+epoch: 5, iter: 25000, loss: 29.740039825439453
+epoch: 5, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.20622455042824872, pvalue=1.2716112505016253e-10), men: SpearmanrResult(correlation=0.27971942126970994, pvalue=1.2666217096849986e-47), sim353: SpearmanrResult(correlation=0.34525462621278663, pvalue=2.3247928230463407e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'devil', 'creature', 'pink', 'whale']
+epoch: 5, iter: 26000, loss: 29.50074005126953
+epoch: 5, iter: 27000, loss: 29.86044692993164
+epoch: 5, iter: 28000, loss: 29.808677673339844
+epoch: 5, iter: 29000, loss: 29.583030700683594
+epoch: 5, iter: 30000, loss: 30.642316818237305
+epoch: 5, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.20668518877388783, pvalue=1.1544053198760095e-10), men: SpearmanrResult(correlation=0.2811336954616284, pvalue=4.1511331956178964e-48), sim353: SpearmanrResult(correlation=0.3469203879427898, pvalue=1.88029124807055e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'devil', 'pink', 'eyed', 'creature']
+epoch: 5, iter: 31000, loss: 29.211692810058594
+epoch: 5, iter: 32000, loss: 29.79698944091797
+epoch: 5, iter: 33000, loss: 29.772613525390625
+epoch: 5, iter: 34000, loss: 29.737388610839844
+epoch: 5, iter: 35000, loss: 30.164886474609375
+epoch: 5, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.2071330494622503, pvalue=1.0505901193729836e-10), men: SpearmanrResult(correlation=0.282375994903714, pvalue=1.5497288636583893e-48), sim353: SpearmanrResult(correlation=0.34692999952844894, pvalue=1.8779835377617202e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'devil', 'creature', 'dodo', 'pink']
+epoch: 5, iter: 36000, loss: 29.564680099487305
+epoch: 5, iter: 37000, loss: 30.231689453125
+epoch: 5, iter: 38000, loss: 30.283084869384766
+epoch: 5, iter: 39000, loss: 29.923786163330078
+epoch: 5, iter: 40000, loss: 30.04122543334961
+epoch: 5, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.20639524168554033, pvalue=1.2268853719718168e-10), men: SpearmanrResult(correlation=0.2836991732088942, pvalue=5.395978145440631e-49), sim353: SpearmanrResult(correlation=0.34719431813407525, pvalue=1.8155897674408651e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'creature', 'devil', 'dodo', 'eyed']
+epoch: 5, iter: 41000, loss: 29.607486724853516
+epoch: 5, iter: 42000, loss: 30.08588981628418
+epoch: 5, iter: 43000, loss: 29.42674446105957
+epoch: 5, iter: 44000, loss: 29.886314392089844
+epoch: 5, iter: 45000, loss: 29.2332706451416
+epoch: 5, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.20688692234404393, pvalue=1.1064596828799995e-10), men: SpearmanrResult(correlation=0.28547171820094014, pvalue=1.301260613480763e-49), sim353: SpearmanrResult(correlation=0.3475645490201379, pvalue=1.731572681833312e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'devil', 'snake', 'creature', 'dodo', 'eyed']
+epoch: 5, iter: 46000, loss: 29.814743041992188
+epoch: 5, iter: 47000, loss: 30.074207305908203
+epoch: 5, iter: 48000, loss: 29.77566146850586
+epoch: 5, iter: 49000, loss: 29.451152801513672
+epoch: 5, iter: 50000, loss: 29.540382385253906
+epoch: 5, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.20696570292433236, pvalue=1.0882685728236181e-10), men: SpearmanrResult(correlation=0.28601910527557867, pvalue=8.369506804704415e-50), sim353: SpearmanrResult(correlation=0.35109384933889953, pvalue=1.0988309903910717e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'devil', 'snake', 'creature', 'dodo', 'eyed']
+epoch: 5, iter: 51000, loss: 29.922311782836914
+epoch: 5, iter: 52000, loss: 29.228389739990234
+epoch: 5, iter: 53000, loss: 29.905027389526367
+epoch: 5, iter: 54000, loss: 29.686094284057617
+epoch: 5, iter: 55000, loss: 29.468564987182617
+epoch: 5, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.20759969309949208, pvalue=9.521237432489968e-11), men: SpearmanrResult(correlation=0.2872398138383562, pvalue=3.116945373038961e-50), sim353: SpearmanrResult(correlation=0.3528440821197917, pvalue=8.751223316456287e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'devil', 'creature', 'dodo', 'kryptonite']
+epoch: 5, iter: 56000, loss: 30.005088806152344
+epoch: 5, iter: 57000, loss: 29.782615661621094
+epoch: 5, iter: 58000, loss: 29.795738220214844
+epoch: 5, iter: 59000, loss: 29.4437313079834
+epoch: 5, iter: 60000, loss: 30.215608596801758
+epoch: 5, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.20782430068024071, pvalue=9.079996939649835e-11), men: SpearmanrResult(correlation=0.2884820686999115, pvalue=1.1349857868581612e-50), sim353: SpearmanrResult(correlation=0.35097037743081677, pvalue=1.1165605537163127e-10), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'creature', 'devil', 'kryptonite', 'dodo']
+epoch: 5, iter: 61000, loss: 30.27062225341797
+epoch: 5, iter: 62000, loss: 29.598228454589844
+epoch: 5, iter: 63000, loss: 29.765625
+epoch: 5, iter: 64000, loss: 30.153488159179688
+epoch: 5, iter: 65000, loss: 29.533239364624023
+epoch: 5, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.208129437217314, pvalue=8.512402106174693e-11), men: SpearmanrResult(correlation=0.28971056778063364, pvalue=4.158397532216121e-51), sim353: SpearmanrResult(correlation=0.35236849346785, pvalue=9.310921080133653e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'creature', 'kryptonite', 'devil', 'cow']
+epoch: 5, iter: 66000, loss: 29.830829620361328
+epoch: 5, iter: 67000, loss: 29.551738739013672
+epoch: 5, iter: 68000, loss: 30.001842498779297
+epoch: 5, iter: 69000, loss: 29.901897430419922
+epoch: 5, iter: 70000, loss: 29.76061248779297
+epoch: 5, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.2090088496318038, pvalue=7.06346168908971e-11), men: SpearmanrResult(correlation=0.2906208342262083, pvalue=1.9697761203438895e-51), sim353: SpearmanrResult(correlation=0.35467305596781445, pvalue=6.88823217123825e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'snake', 'kryptonite', 'devil', 'beast']
+epoch: 5, iter: 71000, loss: 29.921367645263672
+epoch: 5, iter: 72000, loss: 29.682044982910156
+epoch: 5, iter: 73000, loss: 30.150157928466797
+epoch: 5, iter: 74000, loss: 29.610897064208984
+epoch: 5, iter: 75000, loss: 30.089658737182617
+epoch: 5, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.21049039446047704, pvalue=5.148594212949825e-11), men: SpearmanrResult(correlation=0.2920542247487199, pvalue=6.039307657155606e-52), sim353: SpearmanrResult(correlation=0.3557820850823305, pvalue=5.953110971858618e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'snake', 'kryptonite', 'devil', 'eyed']
+epoch: 5, iter: 76000, loss: 29.6855525970459
+epoch: 5, iter: 77000, loss: 30.226119995117188
+epoch: 5, iter: 78000, loss: 29.038013458251953
+epoch: 5, iter: 79000, loss: 29.363697052001953
+epoch: 5, iter: 80000, loss: 29.505495071411133
+epoch: 5, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.21109375695740532, pvalue=4.5234454950447275e-11), men: SpearmanrResult(correlation=0.29311752624158766, pvalue=2.501487539852258e-52), sim353: SpearmanrResult(correlation=0.35602773503119584, pvalue=5.763357906617797e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'devil', 'snake', 'kryptonite', 'beast']
+epoch: 5, iter: 81000, loss: 29.420137405395508
+epoch: 5, iter: 82000, loss: 29.75946807861328
+epoch: 5, iter: 83000, loss: 30.264114379882812
+epoch: 5, iter: 84000, loss: 30.07555389404297
+epoch: 5, iter: 85000, loss: 29.27688217163086
+epoch: 5, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.21014404396696934, pvalue=5.544777299575378e-11), men: SpearmanrResult(correlation=0.294715062943219, pvalue=6.606920733880594e-53), sim353: SpearmanrResult(correlation=0.35972727131903565, pvalue=3.526437974416478e-11), nearest to monster: ['monster', 'giant', 'hammer', 'ness', 'loch', 'creature', 'beast', 'snake', 'devil', 'eyed']
+epoch: 5, iter: 86000, loss: 29.518413543701172
+epoch: 5, iter: 87000, loss: 29.907455444335938
+epoch: 5, iter: 88000, loss: 29.261512756347656
+epoch: 5, iter: 89000, loss: 29.991168975830078
+epoch: 5, iter: 90000, loss: 30.025100708007812
+epoch: 5, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.21073998377786976, pvalue=4.880375780714887e-11), men: SpearmanrResult(correlation=0.29531923725547243, pvalue=3.984388543432699e-53), sim353: SpearmanrResult(correlation=0.3616190901502144, pvalue=2.7363633658414846e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'snake', 'beast', 'devil', 'eyed']
+epoch: 5, iter: 91000, loss: 29.753520965576172
+epoch: 5, iter: 92000, loss: 29.126453399658203
+epoch: 5, iter: 93000, loss: 29.238475799560547
+epoch: 5, iter: 94000, loss: 30.283260345458984
+epoch: 5, iter: 95000, loss: 29.640857696533203
+epoch: 5, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.21109504923534514, pvalue=4.522189633666783e-11), men: SpearmanrResult(correlation=0.2959345051947471, pvalue=2.3776322579167575e-53), sim353: SpearmanrResult(correlation=0.36275621466896485, pvalue=2.347514521904019e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'creature', 'beast', 'dodo', 'eyed']
+epoch: 5, iter: 96000, loss: 30.051448822021484
+epoch: 5, iter: 97000, loss: 29.78063201904297
+epoch: 5, iter: 98000, loss: 29.780441284179688
+epoch: 5, iter: 99000, loss: 30.084049224853516
+epoch: 5, iter: 100000, loss: 29.93827247619629
+epoch: 5, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.21073894719128702, pvalue=4.881460996353763e-11), men: SpearmanrResult(correlation=0.2968881185395792, pvalue=1.0654563964418626e-53), sim353: SpearmanrResult(correlation=0.3637445444481844, pvalue=2.0537099778229137e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'beast', 'eyed', 'creature', 'serpent']
+epoch: 5, iter: 101000, loss: 30.009977340698242
+epoch: 5, iter: 102000, loss: 29.74998664855957
+epoch: 5, iter: 103000, loss: 30.024105072021484
+epoch: 5, iter: 104000, loss: 29.022071838378906
+epoch: 5, iter: 105000, loss: 29.439552307128906
+epoch: 5, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.211397988208863, pvalue=4.2369953658074875e-11), men: SpearmanrResult(correlation=0.29809858113925414, pvalue=3.829275647906784e-54), sim353: SpearmanrResult(correlation=0.3621615902253985, pvalue=2.543603845689746e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'beast', 'snake', 'eyed', 'creature', 'kryptonite']
+epoch: 5, iter: 106000, loss: 29.389873504638672
+epoch: 5, iter: 107000, loss: 29.68400001525879
+epoch: 5, iter: 108000, loss: 29.53444480895996
+epoch: 5, iter: 109000, loss: 29.873783111572266
+epoch: 5, iter: 110000, loss: 29.947301864624023
+epoch: 5, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.21113320253216727, pvalue=4.485264587339363e-11), men: SpearmanrResult(correlation=0.29945920197853304, pvalue=1.2050491543004249e-54), sim353: SpearmanrResult(correlation=0.3637523076519861, pvalue=2.0515504366175932e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'creature', 'beast', 'kryptonite', 'eyed']
+epoch: 5, iter: 111000, loss: 29.819271087646484
+epoch: 5, iter: 112000, loss: 29.882627487182617
+epoch: 5, iter: 113000, loss: 29.716175079345703
+epoch: 5, iter: 114000, loss: 29.547088623046875
+epoch: 5, iter: 115000, loss: 30.17584991455078
+epoch: 5, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.21190148668657768, pvalue=3.801395496731899e-11), men: SpearmanrResult(correlation=0.300085252028912, pvalue=7.064146847799657e-55), sim353: SpearmanrResult(correlation=0.3640462003673328, pvalue=1.971404124892651e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'creature', 'beast', 'serpent', 'kryptonite']
+epoch: 5, iter: 116000, loss: 29.33256721496582
+epoch: 5, iter: 117000, loss: 29.699859619140625
+epoch: 5, iter: 118000, loss: 30.032365798950195
+epoch: 5, iter: 119000, loss: 29.361055374145508
+epoch: 6, iter: 0, loss: 29.757049560546875
+epoch: 6, iteration: 0, simlex-999: SpearmanrResult(correlation=0.21071983253470122, pvalue=4.9015146715384224e-11), men: SpearmanrResult(correlation=0.30118999582195255, pvalue=2.7438315149735856e-55), sim353: SpearmanrResult(correlation=0.3654574399155545, pvalue=1.6271424558919688e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'creature', 'beast', 'kryptonite', 'dodo']
+epoch: 6, iter: 1000, loss: 28.970417022705078
+epoch: 6, iter: 2000, loss: 29.38068199157715
+epoch: 6, iter: 3000, loss: 29.656980514526367
+epoch: 6, iter: 4000, loss: 29.983001708984375
+epoch: 6, iter: 5000, loss: 29.89039421081543
+epoch: 6, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.2115158481033208, pvalue=4.1308535550824085e-11), men: SpearmanrResult(correlation=0.3015550927224109, pvalue=2.0055474554955358e-55), sim353: SpearmanrResult(correlation=0.3669579563074948, pvalue=1.3254237585876212e-11), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'snake', 'creature', 'dodo', 'beast', 'serpent']
+epoch: 6, iter: 6000, loss: 29.744384765625
+epoch: 6, iter: 7000, loss: 29.84103775024414
+epoch: 6, iter: 8000, loss: 29.50299072265625
+epoch: 6, iter: 9000, loss: 29.422922134399414
+epoch: 6, iter: 10000, loss: 29.57223892211914
+epoch: 6, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.2107767411380938, pvalue=4.8420459991381566e-11), men: SpearmanrResult(correlation=0.30244534753219326, pvalue=9.321414374273255e-56), sim353: SpearmanrResult(correlation=0.366403996264794, pvalue=1.4298541519607554e-11), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'dodo', 'serpent', 'beast']
+epoch: 6, iter: 11000, loss: 29.559389114379883
+epoch: 6, iter: 12000, loss: 29.147571563720703
+epoch: 6, iter: 13000, loss: 30.00525665283203
+epoch: 6, iter: 14000, loss: 29.324539184570312
+epoch: 6, iter: 15000, loss: 29.768522262573242
+epoch: 6, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.21065137635677694, pvalue=4.973996099889886e-11), men: SpearmanrResult(correlation=0.30395840140947067, pvalue=2.5191855376062723e-56), sim353: SpearmanrResult(correlation=0.36796865150719044, pvalue=1.153715545132701e-11), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'serpent', 'beast', 'dodo']
+epoch: 6, iter: 16000, loss: 29.86260223388672
+epoch: 6, iter: 17000, loss: 30.152713775634766
+epoch: 6, iter: 18000, loss: 29.84369659423828
+epoch: 6, iter: 19000, loss: 29.826709747314453
+epoch: 6, iter: 20000, loss: 29.779556274414062
+epoch: 6, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.21082972180680234, pvalue=4.787315779529006e-11), men: SpearmanrResult(correlation=0.30505919693702815, pvalue=9.676761603223599e-57), sim353: SpearmanrResult(correlation=0.3690638177577751, pvalue=9.921305627607556e-12), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'snake', 'kryptonite', 'serpent', 'beast']
+epoch: 6, iter: 21000, loss: 29.54140853881836
+epoch: 6, iter: 22000, loss: 29.329490661621094
+epoch: 6, iter: 23000, loss: 29.86798858642578
+epoch: 6, iter: 24000, loss: 29.975330352783203
+epoch: 6, iter: 25000, loss: 29.746225357055664
+epoch: 6, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.21227409464560912, pvalue=3.50752129057959e-11), men: SpearmanrResult(correlation=0.305800475717726, pvalue=5.068712337411112e-57), sim353: SpearmanrResult(correlation=0.37079889380743547, pvalue=7.802637350963102e-12), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'snake', 'kryptonite', 'beast', 'serpent']
+epoch: 6, iter: 26000, loss: 29.85809326171875
+epoch: 6, iter: 27000, loss: 29.631702423095703
+epoch: 6, iter: 28000, loss: 30.270038604736328
+epoch: 6, iter: 29000, loss: 29.625267028808594
+epoch: 6, iter: 30000, loss: 29.961706161499023
+epoch: 6, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.21210475367270848, pvalue=3.638219700784407e-11), men: SpearmanrResult(correlation=0.3079794227603036, pvalue=7.493294137781479e-58), sim353: SpearmanrResult(correlation=0.37280919391568157, pvalue=5.896347321244681e-12), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'snake', 'beast', 'serpent', 'dodo']
+epoch: 6, iter: 31000, loss: 29.434762954711914
+epoch: 6, iter: 32000, loss: 29.176437377929688
+epoch: 6, iter: 33000, loss: 29.50476837158203
+epoch: 6, iter: 34000, loss: 29.487741470336914
+epoch: 6, iter: 35000, loss: 29.507953643798828
+epoch: 6, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.2129809250264829, pvalue=3.009795882340679e-11), men: SpearmanrResult(correlation=0.30904061807195216, pvalue=2.9360959610430738e-58), sim353: SpearmanrResult(correlation=0.3726833191111841, pvalue=6.001024535913787e-12), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'snake', 'serpent', 'beast', 'kryptonite']
+epoch: 6, iter: 36000, loss: 29.782913208007812
+epoch: 6, iter: 37000, loss: 29.07101821899414
+epoch: 6, iter: 38000, loss: 29.675975799560547
+epoch: 6, iter: 39000, loss: 29.900585174560547
+epoch: 6, iter: 40000, loss: 30.04825210571289
+epoch: 6, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.2133468884642315, pvalue=2.779931363360392e-11), men: SpearmanrResult(correlation=0.3093135213528442, pvalue=2.3059856007996913e-58), sim353: SpearmanrResult(correlation=0.3748852964180557, pvalue=4.406126208794228e-12), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'snake', 'beast', 'serpent', 'cow']
+epoch: 6, iter: 41000, loss: 29.547855377197266
+epoch: 6, iter: 42000, loss: 29.692665100097656
+epoch: 6, iter: 43000, loss: 29.873037338256836
+epoch: 6, iter: 44000, loss: 29.481996536254883
+epoch: 6, iter: 45000, loss: 29.527633666992188
+epoch: 6, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.21487047033412354, pvalue=1.9939754015026354e-11), men: SpearmanrResult(correlation=0.31039612454200355, pvalue=8.821996865461817e-59), sim353: SpearmanrResult(correlation=0.3766527191502228, pvalue=3.4326574824657043e-12), nearest to monster: ['monster', 'giant', 'ness', 'hammer', 'loch', 'creature', 'snake', 'beast', 'whale', 'serpent']
+epoch: 6, iter: 46000, loss: 30.015213012695312
+epoch: 6, iter: 47000, loss: 30.257591247558594
+epoch: 6, iter: 48000, loss: 29.465377807617188
+epoch: 6, iter: 49000, loss: 30.220867156982422
+epoch: 6, iter: 50000, loss: 30.259700775146484
+epoch: 6, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.2155365670510394, pvalue=1.7230042581024454e-11), men: SpearmanrResult(correlation=0.3123164431275978, pvalue=1.5887385853030641e-59), sim353: SpearmanrResult(correlation=0.3768774823840981, pvalue=3.3250237069418774e-12), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'dodo']
+epoch: 6, iter: 51000, loss: 29.90212631225586
+epoch: 6, iter: 52000, loss: 30.435535430908203
+epoch: 6, iter: 53000, loss: 29.693073272705078
+epoch: 6, iter: 54000, loss: 29.60419464111328
+epoch: 6, iter: 55000, loss: 29.82134246826172
+epoch: 6, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.21513804788401544, pvalue=1.880454712770366e-11), men: SpearmanrResult(correlation=0.3121123361424649, pvalue=1.9074308158271092e-59), sim353: SpearmanrResult(correlation=0.378061370963844, pvalue=2.8102325988390606e-12), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'eyed']
+epoch: 6, iter: 56000, loss: 29.180389404296875
+epoch: 6, iter: 57000, loss: 29.585163116455078
+epoch: 6, iter: 58000, loss: 30.28329849243164
+epoch: 6, iter: 59000, loss: 29.343524932861328
+epoch: 6, iter: 60000, loss: 29.298555374145508
+epoch: 6, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.21486857683596575, pvalue=1.994802122764346e-11), men: SpearmanrResult(correlation=0.3128576594728078, pvalue=9.77729914221781e-60), sim353: SpearmanrResult(correlation=0.3798962596338109, pvalue=2.162386711903205e-12), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'kryptonite']
+epoch: 6, iter: 61000, loss: 30.387277603149414
+epoch: 6, iter: 62000, loss: 29.138763427734375
+epoch: 6, iter: 63000, loss: 29.917367935180664
+epoch: 6, iter: 64000, loss: 29.913532257080078
+epoch: 6, iter: 65000, loss: 29.736209869384766
+epoch: 6, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.2158728219173266, pvalue=1.600241334804663e-11), men: SpearmanrResult(correlation=0.3143626954293561, pvalue=2.521170443727978e-60), sim353: SpearmanrResult(correlation=0.3831965454404249, pvalue=1.3440963364747476e-12), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'eyed']
+epoch: 6, iter: 66000, loss: 29.104995727539062
+epoch: 6, iter: 67000, loss: 29.18138885498047
+epoch: 6, iter: 68000, loss: 29.545734405517578
+epoch: 6, iter: 69000, loss: 30.31865692138672
+epoch: 6, iter: 70000, loss: 29.201427459716797
+epoch: 6, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.2158898772219013, pvalue=1.594247979805313e-11), men: SpearmanrResult(correlation=0.31603648748178537, pvalue=5.5330306274861114e-61), sim353: SpearmanrResult(correlation=0.3840431043311722, pvalue=1.1887343629455773e-12), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'kryptonite']
+epoch: 6, iter: 71000, loss: 29.86187171936035
+epoch: 6, iter: 72000, loss: 29.996793746948242
+epoch: 6, iter: 73000, loss: 30.252059936523438
+epoch: 6, iter: 74000, loss: 29.736738204956055
+epoch: 6, iter: 75000, loss: 30.01507568359375
+epoch: 6, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.2164036993698123, pvalue=1.4236299530050564e-11), men: SpearmanrResult(correlation=0.31764863627589995, pvalue=1.2722228426224416e-61), sim353: SpearmanrResult(correlation=0.3831497813794295, pvalue=1.35323349121908e-12), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'kryptonite']
+epoch: 6, iter: 76000, loss: 29.328960418701172
+epoch: 6, iter: 77000, loss: 29.41446304321289
+epoch: 6, iter: 78000, loss: 30.066146850585938
+epoch: 6, iter: 79000, loss: 30.16666030883789
+epoch: 6, iter: 80000, loss: 29.793872833251953
+epoch: 6, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.21778810221452818, pvalue=1.0479296325691136e-11), men: SpearmanrResult(correlation=0.31869357092420947, pvalue=4.882750098191541e-62), sim353: SpearmanrResult(correlation=0.38623195812685546, pvalue=8.638549546416037e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'kryptonite']
+epoch: 6, iter: 81000, loss: 29.828916549682617
+epoch: 6, iter: 82000, loss: 29.874679565429688
+epoch: 6, iter: 83000, loss: 29.91155433654785
+epoch: 6, iter: 84000, loss: 29.555803298950195
+epoch: 6, iter: 85000, loss: 29.94808578491211
+epoch: 6, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.21890403604489092, pvalue=8.173672230273377e-12), men: SpearmanrResult(correlation=0.31885945974735097, pvalue=4.19261854641257e-62), sim353: SpearmanrResult(correlation=0.38704154938045215, pvalue=7.671826517619777e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'kryptonite', 'serpent']
+epoch: 6, iter: 86000, loss: 29.73358917236328
+epoch: 6, iter: 87000, loss: 30.090255737304688
+epoch: 6, iter: 88000, loss: 29.964920043945312
+epoch: 6, iter: 89000, loss: 30.098796844482422
+epoch: 6, iter: 90000, loss: 29.33883285522461
+epoch: 6, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.2188427323143875, pvalue=8.286300833492929e-12), men: SpearmanrResult(correlation=0.32054777604019946, pvalue=8.842270559216259e-63), sim353: SpearmanrResult(correlation=0.38848421142025186, pvalue=6.20441649307244e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'eyed', 'serpent']
+epoch: 6, iter: 91000, loss: 30.07054328918457
+epoch: 6, iter: 92000, loss: 29.14590835571289
+epoch: 6, iter: 93000, loss: 29.538257598876953
+epoch: 6, iter: 94000, loss: 29.677261352539062
+epoch: 6, iter: 95000, loss: 29.95332908630371
+epoch: 6, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.21777460585722086, pvalue=1.0510749626022208e-11), men: SpearmanrResult(correlation=0.321688309749932, pvalue=3.072415619291976e-63), sim353: SpearmanrResult(correlation=0.3900272405949153, pvalue=4.938424712542507e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'kryptonite']
+epoch: 6, iter: 96000, loss: 29.905771255493164
+epoch: 6, iter: 97000, loss: 29.941450119018555
+epoch: 6, iter: 98000, loss: 29.689762115478516
+epoch: 6, iter: 99000, loss: 29.461292266845703
+epoch: 6, iter: 100000, loss: 29.429153442382812
+epoch: 6, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.2176361324629032, pvalue=1.0838843245945107e-11), men: SpearmanrResult(correlation=0.32313342765927017, pvalue=7.997033545275663e-64), sim353: SpearmanrResult(correlation=0.38979378996630953, pvalue=5.11230579006881e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'kryptonite']
+epoch: 6, iter: 101000, loss: 29.924806594848633
+epoch: 6, iter: 102000, loss: 29.678916931152344
+epoch: 6, iter: 103000, loss: 29.61547088623047
+epoch: 6, iter: 104000, loss: 29.862640380859375
+epoch: 6, iter: 105000, loss: 29.58024024963379
+epoch: 6, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.217284500810323, pvalue=1.1717658982282178e-11), men: SpearmanrResult(correlation=0.32343956192496603, pvalue=6.007382202369791e-64), sim353: SpearmanrResult(correlation=0.39040782241938, pvalue=4.667270738824242e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'serpent', 'kryptonite']
+epoch: 6, iter: 106000, loss: 29.573593139648438
+epoch: 6, iter: 107000, loss: 29.2197208404541
+epoch: 6, iter: 108000, loss: 29.56999969482422
+epoch: 6, iter: 109000, loss: 30.037607192993164
+epoch: 6, iter: 110000, loss: 29.432384490966797
+epoch: 6, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.2182748556314751, pvalue=9.404445032172296e-12), men: SpearmanrResult(correlation=0.32373058758311996, pvalue=4.575510935046088e-64), sim353: SpearmanrResult(correlation=0.39164143247109334, pvalue=3.8846260480957723e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 6, iter: 111000, loss: 29.15853500366211
+epoch: 6, iter: 112000, loss: 29.73135757446289
+epoch: 6, iter: 113000, loss: 29.207494735717773
+epoch: 6, iter: 114000, loss: 29.39581298828125
+epoch: 6, iter: 115000, loss: 29.83352279663086
+epoch: 6, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.21910404888131968, pvalue=7.816519698798917e-12), men: SpearmanrResult(correlation=0.32521917511833287, pvalue=1.1312906090683799e-64), sim353: SpearmanrResult(correlation=0.39082056608816573, pvalue=4.3896433580499556e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 6, iter: 116000, loss: 30.290542602539062
+epoch: 6, iter: 117000, loss: 29.888832092285156
+epoch: 6, iter: 118000, loss: 29.1376895904541
+epoch: 6, iter: 119000, loss: 30.252315521240234
+epoch: 7, iter: 0, loss: 29.784080505371094
+epoch: 7, iteration: 0, simlex-999: SpearmanrResult(correlation=0.21969267802761858, pvalue=6.851722703673189e-12), men: SpearmanrResult(correlation=0.32626319573282947, pvalue=4.225778835456288e-65), sim353: SpearmanrResult(correlation=0.39365857159221235, pvalue=2.8726757210415363e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 7, iter: 1000, loss: 29.597827911376953
+epoch: 7, iter: 2000, loss: 29.714994430541992
+epoch: 7, iter: 3000, loss: 29.09252166748047
+epoch: 7, iter: 4000, loss: 30.321372985839844
+epoch: 7, iter: 5000, loss: 29.251869201660156
+epoch: 7, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.22041023781307895, pvalue=5.83221890383581e-12), men: SpearmanrResult(correlation=0.32685043802098346, pvalue=2.4244329703242333e-65), sim353: SpearmanrResult(correlation=0.39498164332583, pvalue=2.3541518572576864e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 7, iter: 6000, loss: 29.34490203857422
+epoch: 7, iter: 7000, loss: 29.447311401367188
+epoch: 7, iter: 8000, loss: 29.291645050048828
+epoch: 7, iter: 9000, loss: 29.666641235351562
+epoch: 7, iter: 10000, loss: 29.655780792236328
+epoch: 7, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.22009725777086298, pvalue=6.2572119801004095e-12), men: SpearmanrResult(correlation=0.3276019521835708, pvalue=1.1885966956122048e-65), sim353: SpearmanrResult(correlation=0.3952467012841994, pvalue=2.2618750194880535e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'dodo', 'serpent']
+epoch: 7, iter: 11000, loss: 29.441287994384766
+epoch: 7, iter: 12000, loss: 30.134605407714844
+epoch: 7, iter: 13000, loss: 30.14715576171875
+epoch: 7, iter: 14000, loss: 29.799633026123047
+epoch: 7, iter: 15000, loss: 29.94172477722168
+epoch: 7, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.22041328537763225, pvalue=5.828222795704676e-12), men: SpearmanrResult(correlation=0.3291940187386025, pvalue=2.6079913635433373e-66), sim353: SpearmanrResult(correlation=0.39935232706613794, pvalue=1.2119616929710567e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'snake', 'beast', 'dodo', 'serpent']
+epoch: 7, iter: 16000, loss: 29.700336456298828
+epoch: 7, iter: 17000, loss: 29.580101013183594
+epoch: 7, iter: 18000, loss: 29.77361488342285
+epoch: 7, iter: 19000, loss: 29.809511184692383
+epoch: 7, iter: 20000, loss: 29.379026412963867
+epoch: 7, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.22079384395446586, pvalue=5.3497154444233876e-12), men: SpearmanrResult(correlation=0.3303215688596539, pvalue=8.859031748335251e-67), sim353: SpearmanrResult(correlation=0.39965767974900135, pvalue=1.1566047566415828e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'snake', 'beast', 'dodo', 'serpent']
+epoch: 7, iter: 21000, loss: 30.230850219726562
+epoch: 7, iter: 22000, loss: 29.146408081054688
+epoch: 7, iter: 23000, loss: 29.195419311523438
+epoch: 7, iter: 24000, loss: 30.092052459716797
+epoch: 7, iter: 25000, loss: 30.22793960571289
+epoch: 7, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.2217373381515008, pvalue=4.32309868230589e-12), men: SpearmanrResult(correlation=0.33141444230211387, pvalue=3.0973657877302646e-67), sim353: SpearmanrResult(correlation=0.40157334270614214, pvalue=8.616474286095406e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'killer', 'dodo']
+epoch: 7, iter: 26000, loss: 29.919607162475586
+epoch: 7, iter: 27000, loss: 29.599990844726562
+epoch: 7, iter: 28000, loss: 30.11109733581543
+epoch: 7, iter: 29000, loss: 29.669448852539062
+epoch: 7, iter: 30000, loss: 29.201923370361328
+epoch: 7, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.22151673179496154, pvalue=4.544323843148597e-12), men: SpearmanrResult(correlation=0.33163730943304215, pvalue=2.4985715720293634e-67), sim353: SpearmanrResult(correlation=0.40282987269288884, pvalue=7.096076701224936e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'dodo', 'killer']
+epoch: 7, iter: 31000, loss: 29.902734756469727
+epoch: 7, iter: 32000, loss: 30.10635757446289
+epoch: 7, iter: 33000, loss: 30.288345336914062
+epoch: 7, iter: 34000, loss: 30.28828239440918
+epoch: 7, iter: 35000, loss: 29.61501693725586
+epoch: 7, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.22182539272641616, pvalue=4.237771678191119e-12), men: SpearmanrResult(correlation=0.3324927245631078, pvalue=1.0936029347799178e-67), sim353: SpearmanrResult(correlation=0.4018003239982464, pvalue=8.320047295184017e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'killer', 'dodo']
+epoch: 7, iter: 36000, loss: 30.1174259185791
+epoch: 7, iter: 37000, loss: 30.15785789489746
+epoch: 7, iter: 38000, loss: 29.780956268310547
+epoch: 7, iter: 39000, loss: 29.887065887451172
+epoch: 7, iter: 40000, loss: 30.11867332458496
+epoch: 7, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.2224140702467556, pvalue=3.708209633649602e-12), men: SpearmanrResult(correlation=0.3333683272898568, pvalue=4.681338815512124e-68), sim353: SpearmanrResult(correlation=0.40072123866982223, pvalue=9.824318732009552e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'snake', 'beast', 'dodo', 'killer']
+epoch: 7, iter: 41000, loss: 29.859397888183594
+epoch: 7, iter: 42000, loss: 30.11528205871582
+epoch: 7, iter: 43000, loss: 30.330408096313477
+epoch: 7, iter: 44000, loss: 29.759496688842773
+epoch: 7, iter: 45000, loss: 29.921749114990234
+epoch: 7, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.2234261795649909, pvalue=2.9451568702284686e-12), men: SpearmanrResult(correlation=0.33405155728852043, pvalue=2.409915632488768e-68), sim353: SpearmanrResult(correlation=0.4001086849222379, pvalue=1.0793392663822814e-13), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'dodo', 'killer']
+epoch: 7, iter: 46000, loss: 30.060468673706055
+epoch: 7, iter: 47000, loss: 29.93756103515625
+epoch: 7, iter: 48000, loss: 29.535221099853516
+epoch: 7, iter: 49000, loss: 30.153121948242188
+epoch: 7, iter: 50000, loss: 29.658935546875
+epoch: 7, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.22372667910475072, pvalue=2.749844580796899e-12), men: SpearmanrResult(correlation=0.3343474604076085, pvalue=1.8066880327690984e-68), sim353: SpearmanrResult(correlation=0.4013968222387483, pvalue=8.854119756918461e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'dodo', 'cow']
+epoch: 7, iter: 51000, loss: 29.485448837280273
+epoch: 7, iter: 52000, loss: 29.745033264160156
+epoch: 7, iter: 53000, loss: 29.477977752685547
+epoch: 7, iter: 54000, loss: 29.79100227355957
+epoch: 7, iter: 55000, loss: 29.354949951171875
+epoch: 7, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.22392473624782666, pvalue=2.6281104987492707e-12), men: SpearmanrResult(correlation=0.33542972806210514, pvalue=6.281818140947858e-69), sim353: SpearmanrResult(correlation=0.4020420923452109, pvalue=8.015281318901507e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'dodo', 'killer']
+epoch: 7, iter: 56000, loss: 29.91022491455078
+epoch: 7, iter: 57000, loss: 29.4028263092041
+epoch: 7, iter: 58000, loss: 29.12457275390625
+epoch: 7, iter: 59000, loss: 29.828872680664062
+epoch: 7, iter: 60000, loss: 29.999475479125977
+epoch: 7, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.22451194181521864, pvalue=2.2973780617107826e-12), men: SpearmanrResult(correlation=0.3364643368436577, pvalue=2.2790943982473067e-69), sim353: SpearmanrResult(correlation=0.40337865726638855, pvalue=6.51754423994943e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'dodo', 'serpent']
+epoch: 7, iter: 61000, loss: 29.790977478027344
+epoch: 7, iter: 62000, loss: 29.732789993286133
+epoch: 7, iter: 63000, loss: 29.32901954650879
+epoch: 7, iter: 64000, loss: 29.98853302001953
+epoch: 7, iter: 65000, loss: 29.442548751831055
+epoch: 7, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.22459334150427276, pvalue=2.2548751363079958e-12), men: SpearmanrResult(correlation=0.33675201145194505, pvalue=1.7180230993674059e-69), sim353: SpearmanrResult(correlation=0.4050305561324602, pvalue=5.0407686885490986e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'dodo', 'serpent']
+epoch: 7, iter: 66000, loss: 30.077686309814453
+epoch: 7, iter: 67000, loss: 29.648544311523438
+epoch: 7, iter: 68000, loss: 29.666667938232422
+epoch: 7, iter: 69000, loss: 30.279640197753906
+epoch: 7, iter: 70000, loss: 30.016918182373047
+epoch: 7, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.22563044638030658, pvalue=1.7763116107828712e-12), men: SpearmanrResult(correlation=0.33831459334806524, pvalue=3.68196019280653e-70), sim353: SpearmanrResult(correlation=0.40820348842909077, pvalue=3.0649462708504274e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'serpent', 'dodo', 'snake']
+epoch: 7, iter: 71000, loss: 30.001562118530273
+epoch: 7, iter: 72000, loss: 29.906896591186523
+epoch: 7, iter: 73000, loss: 29.521562576293945
+epoch: 7, iter: 74000, loss: 29.495943069458008
+epoch: 7, iter: 75000, loss: 29.806970596313477
+epoch: 7, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.2256097837544239, pvalue=1.784794689523243e-12), men: SpearmanrResult(correlation=0.33969674748101863, pvalue=9.357044927057195e-71), sim353: SpearmanrResult(correlation=0.4078365846303717, pvalue=3.247327958321051e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'dodo', 'snake', 'serpent']
+epoch: 7, iter: 76000, loss: 29.848304748535156
+epoch: 7, iter: 77000, loss: 29.7835636138916
+epoch: 7, iter: 78000, loss: 30.107776641845703
+epoch: 7, iter: 79000, loss: 29.835407257080078
+epoch: 7, iter: 80000, loss: 30.065088272094727
+epoch: 7, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.22652057018948474, pvalue=1.4460774867924978e-12), men: SpearmanrResult(correlation=0.3407739592141291, pvalue=3.201465616827191e-71), sim353: SpearmanrResult(correlation=0.4103248762869743, pvalue=2.19115923392158e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'dodo', 'serpent']
+epoch: 7, iter: 81000, loss: 29.54732894897461
+epoch: 7, iter: 82000, loss: 29.399904251098633
+epoch: 7, iter: 83000, loss: 30.210969924926758
+epoch: 7, iter: 84000, loss: 30.170578002929688
+epoch: 7, iter: 85000, loss: 29.766368865966797
+epoch: 7, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.2259609516463482, pvalue=1.645869966477e-12), men: SpearmanrResult(correlation=0.34217588585613573, pvalue=7.877257578644781e-72), sim353: SpearmanrResult(correlation=0.41159915073955317, pvalue=1.789071815375288e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 7, iter: 86000, loss: 30.294570922851562
+epoch: 7, iter: 87000, loss: 29.448530197143555
+epoch: 7, iter: 88000, loss: 29.107885360717773
+epoch: 7, iter: 89000, loss: 28.844221115112305
+epoch: 7, iter: 90000, loss: 29.761119842529297
+epoch: 7, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.2263612537422944, pvalue=1.5004007963232187e-12), men: SpearmanrResult(correlation=0.3431294038321618, pvalue=3.0226240192829464e-72), sim353: SpearmanrResult(correlation=0.41486228407083103, pvalue=1.0603456655836038e-14), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 7, iter: 91000, loss: 29.478984832763672
+epoch: 7, iter: 92000, loss: 29.320388793945312
+epoch: 7, iter: 93000, loss: 29.59973907470703
+epoch: 7, iter: 94000, loss: 29.736984252929688
+epoch: 7, iter: 95000, loss: 30.006040573120117
+epoch: 7, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.22600088787209263, pvalue=1.6307581251610792e-12), men: SpearmanrResult(correlation=0.3436750238564702, pvalue=1.7445777523250926e-72), sim353: SpearmanrResult(correlation=0.4165921846512904, pvalue=8.016887155425324e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'dodo', 'serpent']
+epoch: 7, iter: 96000, loss: 29.374109268188477
+epoch: 7, iter: 97000, loss: 29.797996520996094
+epoch: 7, iter: 98000, loss: 29.69689178466797
+epoch: 7, iter: 99000, loss: 29.510150909423828
+epoch: 7, iter: 100000, loss: 29.908464431762695
+epoch: 7, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.22529271956107186, pvalue=1.920051919167751e-12), men: SpearmanrResult(correlation=0.3445271315779901, pvalue=7.378349262875014e-73), sim353: SpearmanrResult(correlation=0.4169413439841772, pvalue=7.575465416569989e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 7, iter: 101000, loss: 29.59047508239746
+epoch: 7, iter: 102000, loss: 29.448535919189453
+epoch: 7, iter: 103000, loss: 29.859451293945312
+epoch: 7, iter: 104000, loss: 29.780481338500977
+epoch: 7, iter: 105000, loss: 29.511262893676758
+epoch: 7, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.22518412675066377, pvalue=1.9686456409548067e-12), men: SpearmanrResult(correlation=0.34623285454824304, pvalue=1.3071360107235767e-73), sim353: SpearmanrResult(correlation=0.41841912527926983, pvalue=5.956490432772401e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 7, iter: 106000, loss: 29.72795867919922
+epoch: 7, iter: 107000, loss: 29.660865783691406
+epoch: 7, iter: 108000, loss: 29.430545806884766
+epoch: 7, iter: 109000, loss: 29.803171157836914
+epoch: 7, iter: 110000, loss: 29.06954002380371
+epoch: 7, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.22555997231383454, pvalue=1.8054083279448578e-12), men: SpearmanrResult(correlation=0.3468729286079688, pvalue=6.808560218508927e-74), sim353: SpearmanrResult(correlation=0.4172032596933887, pvalue=7.260055848590473e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 7, iter: 111000, loss: 29.282148361206055
+epoch: 7, iter: 112000, loss: 29.66014289855957
+epoch: 7, iter: 113000, loss: 29.671722412109375
+epoch: 7, iter: 114000, loss: 29.53329086303711
+epoch: 7, iter: 115000, loss: 29.020233154296875
+epoch: 7, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.2262710568884414, pvalue=1.5320368902956296e-12), men: SpearmanrResult(correlation=0.34775102808709263, pvalue=2.775698382783506e-74), sim353: SpearmanrResult(correlation=0.4159835125056068, pvalue=8.847391920881452e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'hammer', 'creature', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 7, iter: 116000, loss: 29.82016944885254
+epoch: 7, iter: 117000, loss: 29.434783935546875
+epoch: 7, iter: 118000, loss: 29.502002716064453
+epoch: 7, iter: 119000, loss: 29.741863250732422
+epoch: 8, iter: 0, loss: 29.302776336669922
+epoch: 8, iteration: 0, simlex-999: SpearmanrResult(correlation=0.2259053284103182, pvalue=1.6671465508695737e-12), men: SpearmanrResult(correlation=0.3488682288695679, pvalue=8.826183498757486e-75), sim353: SpearmanrResult(correlation=0.41834130840306794, pvalue=6.03256119901396e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'killer']
+epoch: 8, iter: 1000, loss: 29.367050170898438
+epoch: 8, iter: 2000, loss: 29.61125946044922
+epoch: 8, iter: 3000, loss: 29.62009048461914
+epoch: 8, iter: 4000, loss: 29.4615478515625
+epoch: 8, iter: 5000, loss: 29.518966674804688
+epoch: 8, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.2263418211991566, pvalue=1.5071621187925657e-12), men: SpearmanrResult(correlation=0.3492496279777282, pvalue=5.96257786152935e-75), sim353: SpearmanrResult(correlation=0.4183071133387037, pvalue=6.06628919499265e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'killer']
+epoch: 8, iter: 6000, loss: 29.555435180664062
+epoch: 8, iter: 7000, loss: 30.09926414489746
+epoch: 8, iter: 8000, loss: 29.567951202392578
+epoch: 8, iter: 9000, loss: 29.56389045715332
+epoch: 8, iter: 10000, loss: 29.1873836517334
+epoch: 8, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.22665152986619236, pvalue=1.4028700708226544e-12), men: SpearmanrResult(correlation=0.35055574908693277, pvalue=1.54990530685137e-75), sim353: SpearmanrResult(correlation=0.4173239590286852, pvalue=7.119069917167042e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'killer']
+epoch: 8, iter: 11000, loss: 29.36614990234375
+epoch: 8, iter: 12000, loss: 30.010358810424805
+epoch: 8, iter: 13000, loss: 29.583602905273438
+epoch: 8, iter: 14000, loss: 28.95417022705078
+epoch: 8, iter: 15000, loss: 29.870994567871094
+epoch: 8, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.22584866167712828, pvalue=1.6890992680838772e-12), men: SpearmanrResult(correlation=0.3514765582733275, pvalue=5.971993332212432e-76), sim353: SpearmanrResult(correlation=0.41837550346743224, pvalue=5.9990169248563855e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 8, iter: 16000, loss: 29.984119415283203
+epoch: 8, iter: 17000, loss: 29.773773193359375
+epoch: 8, iter: 18000, loss: 29.345096588134766
+epoch: 8, iter: 19000, loss: 29.353702545166016
+epoch: 8, iter: 20000, loss: 29.88995361328125
+epoch: 8, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.22674329118265274, pvalue=1.3733514905534408e-12), men: SpearmanrResult(correlation=0.352186091566971, pvalue=2.857728681178573e-76), sim353: SpearmanrResult(correlation=0.42042055315459986, pvalue=4.292900620602238e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'killer']
+epoch: 8, iter: 21000, loss: 29.255821228027344
+epoch: 8, iter: 22000, loss: 30.060325622558594
+epoch: 8, iter: 23000, loss: 29.202373504638672
+epoch: 8, iter: 24000, loss: 29.78280258178711
+epoch: 8, iter: 25000, loss: 29.15186309814453
+epoch: 8, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.22688505476370863, pvalue=1.3289399981730446e-12), men: SpearmanrResult(correlation=0.35265371968832226, pvalue=1.7563248655056133e-76), sim353: SpearmanrResult(correlation=0.42095122358589576, pvalue=3.934392621263612e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'killer']
+epoch: 8, iter: 26000, loss: 29.193214416503906
+epoch: 8, iter: 27000, loss: 29.620922088623047
+epoch: 8, iter: 28000, loss: 29.732206344604492
+epoch: 8, iter: 29000, loss: 29.457355499267578
+epoch: 8, iter: 30000, loss: 29.792980194091797
+epoch: 8, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.2274670359347235, pvalue=1.1609049011027291e-12), men: SpearmanrResult(correlation=0.35314236628620826, pvalue=1.0551229929971573e-76), sim353: SpearmanrResult(correlation=0.4232554164094887, pvalue=2.6893979708469572e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'killer']
+epoch: 8, iter: 31000, loss: 29.481624603271484
+epoch: 8, iter: 32000, loss: 28.944686889648438
+epoch: 8, iter: 33000, loss: 29.802852630615234
+epoch: 8, iter: 34000, loss: 30.038738250732422
+epoch: 8, iter: 35000, loss: 29.560714721679688
+epoch: 8, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.22815179812070596, pvalue=9.897218284302039e-13), men: SpearmanrResult(correlation=0.3540420289840425, pvalue=4.119381214299967e-77), sim353: SpearmanrResult(correlation=0.42243270164470353, pvalue=3.081719159192275e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'killer']
+epoch: 8, iter: 36000, loss: 29.625202178955078
+epoch: 8, iter: 37000, loss: 30.011737823486328
+epoch: 8, iter: 38000, loss: 30.049152374267578
+epoch: 8, iter: 39000, loss: 29.299257278442383
+epoch: 8, iter: 40000, loss: 29.367042541503906
+epoch: 8, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.22805715776570157, pvalue=1.011817205974186e-12), men: SpearmanrResult(correlation=0.3556972511945303, pvalue=7.241634684561802e-78), sim353: SpearmanrResult(correlation=0.4228393456533594, pvalue=2.881263924686244e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'killer']
+epoch: 8, iter: 41000, loss: 29.78972053527832
+epoch: 8, iter: 42000, loss: 29.503559112548828
+epoch: 8, iter: 43000, loss: 30.14858627319336
+epoch: 8, iter: 44000, loss: 29.62706184387207
+epoch: 8, iter: 45000, loss: 29.702407836914062
+epoch: 8, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.22677416073108686, pvalue=1.3635585568361308e-12), men: SpearmanrResult(correlation=0.35557972427879675, pvalue=8.195832426233346e-78), sim353: SpearmanrResult(correlation=0.42642908805886226, pvalue=1.5849276772013435e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'killer']
+epoch: 8, iter: 46000, loss: 29.39853286743164
+epoch: 8, iter: 47000, loss: 29.385896682739258
+epoch: 8, iter: 48000, loss: 30.05780792236328
+epoch: 8, iter: 49000, loss: 29.343765258789062
+epoch: 8, iter: 50000, loss: 29.406444549560547
+epoch: 8, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.2270617029385624, pvalue=1.275565032804688e-12), men: SpearmanrResult(correlation=0.35670013425611624, pvalue=2.5130013226926317e-78), sim353: SpearmanrResult(correlation=0.4290073959119263, pvalue=1.0272089526994151e-15), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'killer']
+epoch: 8, iter: 51000, loss: 29.270992279052734
+epoch: 8, iter: 52000, loss: 29.314664840698242
+epoch: 8, iter: 53000, loss: 29.675687789916992
+epoch: 8, iter: 54000, loss: 29.351428985595703
+epoch: 8, iter: 55000, loss: 29.75652503967285
+epoch: 8, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.2278313131916309, pvalue=1.0665157452311147e-12), men: SpearmanrResult(correlation=0.35703433926803596, pvalue=1.7646130555760625e-78), sim353: SpearmanrResult(correlation=0.4311524430575862, pvalue=7.140518574770895e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'killer']
+epoch: 8, iter: 56000, loss: 29.577463150024414
+epoch: 8, iter: 57000, loss: 29.526546478271484
+epoch: 8, iter: 58000, loss: 29.213895797729492
+epoch: 8, iter: 59000, loss: 29.326339721679688
+epoch: 8, iter: 60000, loss: 29.46905517578125
+epoch: 8, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.22848629770037973, pvalue=9.153509053153203e-13), men: SpearmanrResult(correlation=0.3572478950408761, pvalue=1.407469775966103e-78), sim353: SpearmanrResult(correlation=0.43203504539455523, pvalue=6.143590877815148e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'panda']
+epoch: 8, iter: 61000, loss: 29.693559646606445
+epoch: 8, iter: 62000, loss: 29.842613220214844
+epoch: 8, iter: 63000, loss: 30.05034637451172
+epoch: 8, iter: 64000, loss: 29.792449951171875
+epoch: 8, iter: 65000, loss: 30.10257339477539
+epoch: 8, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.2300478739238179, pvalue=6.346049645672277e-13), men: SpearmanrResult(correlation=0.35844108694778576, pvalue=3.9657037277176247e-79), sim353: SpearmanrResult(correlation=0.4327527720698329, pvalue=5.434681259562552e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'snake', 'beast', 'serpent', 'panda']
+epoch: 8, iter: 66000, loss: 30.306774139404297
+epoch: 8, iter: 67000, loss: 29.50905990600586
+epoch: 8, iter: 68000, loss: 29.18283462524414
+epoch: 8, iter: 69000, loss: 29.850099563598633
+epoch: 8, iter: 70000, loss: 29.681766510009766
+epoch: 8, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.23140045356044353, pvalue=4.610719965533943e-13), men: SpearmanrResult(correlation=0.35909684166152, pvalue=1.9723275904707145e-79), sim353: SpearmanrResult(correlation=0.43075596514914666, pvalue=7.638443538732928e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'panda']
+epoch: 8, iter: 71000, loss: 29.631912231445312
+epoch: 8, iter: 72000, loss: 29.348026275634766
+epoch: 8, iter: 73000, loss: 29.06728744506836
+epoch: 8, iter: 74000, loss: 30.158710479736328
+epoch: 8, iter: 75000, loss: 29.389415740966797
+epoch: 8, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.23124003142089833, pvalue=4.789267398030779e-13), men: SpearmanrResult(correlation=0.360239111564648, pvalue=5.81935256972633e-80), sim353: SpearmanrResult(correlation=0.43140622588662464, pvalue=6.83865665041193e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 8, iter: 76000, loss: 30.003599166870117
+epoch: 8, iter: 77000, loss: 29.632226943969727
+epoch: 8, iter: 78000, loss: 29.5726318359375
+epoch: 8, iter: 79000, loss: 29.72893714904785
+epoch: 8, iter: 80000, loss: 29.745304107666016
+epoch: 8, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.23202167989948108, pvalue=3.9788331137754793e-13), men: SpearmanrResult(correlation=0.361706917493694, pvalue=1.2036468796567636e-80), sim353: SpearmanrResult(correlation=0.4320594440350746, pvalue=6.118066902965933e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 8, iter: 81000, loss: 29.566743850708008
+epoch: 8, iter: 82000, loss: 29.199081420898438
+epoch: 8, iter: 83000, loss: 29.147682189941406
+epoch: 8, iter: 84000, loss: 29.465953826904297
+epoch: 8, iter: 85000, loss: 30.283605575561523
+epoch: 8, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.23282987190515927, pvalue=3.282465970666602e-13), men: SpearmanrResult(correlation=0.36223321995447955, pvalue=6.826983002598966e-81), sim353: SpearmanrResult(correlation=0.43228605565080735, pvalue=5.88591745965177e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'panda']
+epoch: 8, iter: 86000, loss: 29.588987350463867
+epoch: 8, iter: 87000, loss: 29.71198272705078
+epoch: 8, iter: 88000, loss: 30.018569946289062
+epoch: 8, iter: 89000, loss: 29.624919891357422
+epoch: 8, iter: 90000, loss: 29.573436737060547
+epoch: 8, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.23403438551430603, pvalue=2.4608703403052034e-13), men: SpearmanrResult(correlation=0.3623838310096671, pvalue=5.803215219229892e-81), sim353: SpearmanrResult(correlation=0.4346490270174696, pvalue=3.9253824301768833e-16), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'snake', 'serpent', 'dodo']
+epoch: 8, iter: 91000, loss: 29.050350189208984
+epoch: 8, iter: 92000, loss: 29.030073165893555
+epoch: 8, iter: 93000, loss: 29.43679428100586
+epoch: 8, iter: 94000, loss: 29.258407592773438
+epoch: 8, iter: 95000, loss: 29.987873077392578
+epoch: 8, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.23444776933292646, pvalue=2.2283850732154103e-13), men: SpearmanrResult(correlation=0.36345908224495244, pvalue=1.8147458271630924e-81), sim353: SpearmanrResult(correlation=0.4364428816101994, pvalue=2.8800719941313194e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 8, iter: 96000, loss: 29.781661987304688
+epoch: 8, iter: 97000, loss: 29.854751586914062
+epoch: 8, iter: 98000, loss: 29.817689895629883
+epoch: 8, iter: 99000, loss: 30.015487670898438
+epoch: 8, iter: 100000, loss: 28.97211456298828
+epoch: 8, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.2328766841552359, pvalue=3.246017914359506e-13), men: SpearmanrResult(correlation=0.36529598748411257, pvalue=2.4652002391822446e-82), sim353: SpearmanrResult(correlation=0.43979214953603796, pvalue=1.6076136267148004e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 8, iter: 101000, loss: 29.355487823486328
+epoch: 8, iter: 102000, loss: 29.77593231201172
+epoch: 8, iter: 103000, loss: 29.394168853759766
+epoch: 8, iter: 104000, loss: 29.273906707763672
+epoch: 8, iter: 105000, loss: 29.799819946289062
+epoch: 8, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.23273552870497527, pvalue=3.357145213592688e-13), men: SpearmanrResult(correlation=0.3666223642502884, pvalue=5.784991081234897e-83), sim353: SpearmanrResult(correlation=0.43848700710643834, pvalue=2.0192481073239775e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 8, iter: 106000, loss: 29.369447708129883
+epoch: 8, iter: 107000, loss: 29.71863555908203
+epoch: 8, iter: 108000, loss: 29.51935577392578
+epoch: 8, iter: 109000, loss: 29.435379028320312
+epoch: 8, iter: 110000, loss: 30.159584045410156
+epoch: 8, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.23360197687660358, pvalue=2.7294978695137846e-13), men: SpearmanrResult(correlation=0.36687466658231765, pvalue=4.387461754225879e-83), sim353: SpearmanrResult(correlation=0.4384230530941679, pvalue=2.0418803675041106e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 8, iter: 111000, loss: 29.88437271118164
+epoch: 8, iter: 112000, loss: 29.401033401489258
+epoch: 8, iter: 113000, loss: 29.164020538330078
+epoch: 8, iter: 114000, loss: 29.7198486328125
+epoch: 8, iter: 115000, loss: 29.823835372924805
+epoch: 8, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.23370054243946795, pvalue=2.6658425015773077e-13), men: SpearmanrResult(correlation=0.36789389584347393, pvalue=1.4321488099177025e-83), sim353: SpearmanrResult(correlation=0.43833784269053583, pvalue=2.0724219807691682e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 8, iter: 116000, loss: 29.579191207885742
+epoch: 8, iter: 117000, loss: 29.463123321533203
+epoch: 8, iter: 118000, loss: 29.219642639160156
+epoch: 8, iter: 119000, loss: 29.11220359802246
+epoch: 9, iter: 0, loss: 29.534866333007812
+epoch: 9, iteration: 0, simlex-999: SpearmanrResult(correlation=0.23485789135909987, pvalue=2.0190661358617797e-13), men: SpearmanrResult(correlation=0.3690345984188218, pvalue=4.071190064082001e-84), sim353: SpearmanrResult(correlation=0.43831806500466036, pvalue=2.0795746477851625e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'killer', 'snake']
+epoch: 9, iter: 1000, loss: 29.34282875061035
+epoch: 9, iter: 2000, loss: 29.190753936767578
+epoch: 9, iter: 3000, loss: 29.17996597290039
+epoch: 9, iter: 4000, loss: 29.31186294555664
+epoch: 9, iter: 5000, loss: 29.733898162841797
+epoch: 9, iteration: 5000, simlex-999: SpearmanrResult(correlation=0.2336666667899439, pvalue=2.6875540466797127e-13), men: SpearmanrResult(correlation=0.3688945666535158, pvalue=4.752256354519642e-84), sim353: SpearmanrResult(correlation=0.4407732706260132, pvalue=1.3535461085540645e-16), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'killer', 'dodo']
+epoch: 9, iter: 6000, loss: 29.506420135498047
+epoch: 9, iter: 7000, loss: 29.442989349365234
+epoch: 9, iter: 8000, loss: 29.856340408325195
+epoch: 9, iter: 9000, loss: 29.704051971435547
+epoch: 9, iter: 10000, loss: 28.918190002441406
+epoch: 9, iteration: 10000, simlex-999: SpearmanrResult(correlation=0.23362157527359462, pvalue=2.7167232822106455e-13), men: SpearmanrResult(correlation=0.3694109867638532, pvalue=2.6852718052012336e-84), sim353: SpearmanrResult(correlation=0.4415860041287677, pvalue=1.173284670994535e-16), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'killer', 'dodo']
+epoch: 9, iter: 11000, loss: 29.22820281982422
+epoch: 9, iter: 12000, loss: 29.430627822875977
+epoch: 9, iter: 13000, loss: 29.502197265625
+epoch: 9, iter: 14000, loss: 29.693265914916992
+epoch: 9, iter: 15000, loss: 29.252098083496094
+epoch: 9, iteration: 15000, simlex-999: SpearmanrResult(correlation=0.234083519718328, pvalue=2.4320383138232724e-13), men: SpearmanrResult(correlation=0.37038337600624155, pvalue=9.140095728304723e-85), sim353: SpearmanrResult(correlation=0.4401620107457291, pvalue=1.5067684368789906e-16), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 9, iter: 16000, loss: 29.523456573486328
+epoch: 9, iter: 17000, loss: 29.94951057434082
+epoch: 9, iter: 18000, loss: 30.16708755493164
+epoch: 9, iter: 19000, loss: 29.538387298583984
+epoch: 9, iter: 20000, loss: 29.973865509033203
+epoch: 9, iteration: 20000, simlex-999: SpearmanrResult(correlation=0.23470954890853224, pvalue=2.092450283393824e-13), men: SpearmanrResult(correlation=0.3709287183164405, pvalue=4.986040421631916e-85), sim353: SpearmanrResult(correlation=0.44153092234941343, pvalue=1.184718919176445e-16), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 9, iter: 21000, loss: 29.3697509765625
+epoch: 9, iter: 22000, loss: 30.022789001464844
+epoch: 9, iter: 23000, loss: 29.821693420410156
+epoch: 9, iter: 24000, loss: 30.355695724487305
+epoch: 9, iter: 25000, loss: 29.626358032226562
+epoch: 9, iteration: 25000, simlex-999: SpearmanrResult(correlation=0.2355042169145942, pvalue=1.727720728427521e-13), men: SpearmanrResult(correlation=0.37178450250492556, pvalue=1.921801239858237e-85), sim353: SpearmanrResult(correlation=0.44682357896025565, pvalue=4.628007802777976e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'killer']
+epoch: 9, iter: 26000, loss: 29.919105529785156
+epoch: 9, iter: 27000, loss: 29.601001739501953
+epoch: 9, iter: 28000, loss: 29.56204605102539
+epoch: 9, iter: 29000, loss: 29.84269905090332
+epoch: 9, iter: 30000, loss: 30.03649139404297
+epoch: 9, iteration: 30000, simlex-999: SpearmanrResult(correlation=0.23490343206296838, pvalue=1.9970482158699719e-13), men: SpearmanrResult(correlation=0.3728298675839197, pvalue=5.97357145151855e-86), sim353: SpearmanrResult(correlation=0.44487261190963606, pvalue=6.556915677462539e-17), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 9, iter: 31000, loss: 29.55620765686035
+epoch: 9, iter: 32000, loss: 29.676471710205078
+epoch: 9, iter: 33000, loss: 29.201202392578125
+epoch: 9, iter: 34000, loss: 29.759639739990234
+epoch: 9, iter: 35000, loss: 29.81244659423828
+epoch: 9, iteration: 35000, simlex-999: SpearmanrResult(correlation=0.23459840690572134, pvalue=2.149139740940561e-13), men: SpearmanrResult(correlation=0.3738372382914688, pvalue=1.929422491567077e-86), sim353: SpearmanrResult(correlation=0.4466354136871594, pvalue=4.786625089286576e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 9, iter: 36000, loss: 29.64928436279297
+epoch: 9, iter: 37000, loss: 30.61041831970215
+epoch: 9, iter: 38000, loss: 29.437103271484375
+epoch: 9, iter: 39000, loss: 30.115638732910156
+epoch: 9, iter: 40000, loss: 29.264190673828125
+epoch: 9, iteration: 40000, simlex-999: SpearmanrResult(correlation=0.2354371082992275, pvalue=1.7559408355743147e-13), men: SpearmanrResult(correlation=0.37543174947606367, pvalue=3.198758754244555e-87), sim353: SpearmanrResult(correlation=0.44722282944148145, pvalue=4.30834746900057e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 9, iter: 41000, loss: 29.779020309448242
+epoch: 9, iter: 42000, loss: 29.019535064697266
+epoch: 9, iter: 43000, loss: 29.408119201660156
+epoch: 9, iter: 44000, loss: 29.448972702026367
+epoch: 9, iter: 45000, loss: 30.238786697387695
+epoch: 9, iteration: 45000, simlex-999: SpearmanrResult(correlation=0.23627504342925315, pvalue=1.4338267469362369e-13), men: SpearmanrResult(correlation=0.37636367466574516, pvalue=1.1138040367023676e-87), sim353: SpearmanrResult(correlation=0.4478350135126943, pvalue=3.8598484130838733e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 9, iter: 46000, loss: 29.432113647460938
+epoch: 9, iter: 47000, loss: 29.399002075195312
+epoch: 9, iter: 48000, loss: 30.108646392822266
+epoch: 9, iter: 49000, loss: 29.56716537475586
+epoch: 9, iter: 50000, loss: 28.91754913330078
+epoch: 9, iteration: 50000, simlex-999: SpearmanrResult(correlation=0.23706262809366643, pvalue=1.1843038108118568e-13), men: SpearmanrResult(correlation=0.3764916661783979, pvalue=9.633085502402098e-88), sim353: SpearmanrResult(correlation=0.45009835709723583, pvalue=2.5658394480847658e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'snake', 'dodo']
+epoch: 9, iter: 51000, loss: 29.732742309570312
+epoch: 9, iter: 52000, loss: 30.092571258544922
+epoch: 9, iter: 53000, loss: 29.860084533691406
+epoch: 9, iter: 54000, loss: 29.498775482177734
+epoch: 9, iter: 55000, loss: 29.780292510986328
+epoch: 9, iteration: 55000, simlex-999: SpearmanrResult(correlation=0.23794192385048693, pvalue=9.558868292556634e-14), men: SpearmanrResult(correlation=0.37743690739759905, pvalue=3.2907761466236695e-88), sim353: SpearmanrResult(correlation=0.45413688661774615, pvalue=1.2288601779387386e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'dodo', 'snake']
+epoch: 9, iter: 56000, loss: 29.509700775146484
+epoch: 9, iter: 57000, loss: 29.24005699157715
+epoch: 9, iter: 58000, loss: 29.7471981048584
+epoch: 9, iter: 59000, loss: 29.240753173828125
+epoch: 9, iter: 60000, loss: 29.596698760986328
+epoch: 9, iteration: 60000, simlex-999: SpearmanrResult(correlation=0.23880001631211492, pvalue=7.748775145358659e-14), men: SpearmanrResult(correlation=0.37794190339505773, pvalue=1.8511933046800995e-88), sim353: SpearmanrResult(correlation=0.454001030551218, pvalue=1.2598740946025047e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'killer', 'snake']
+epoch: 9, iter: 61000, loss: 30.051834106445312
+epoch: 9, iter: 62000, loss: 29.180965423583984
+epoch: 9, iter: 63000, loss: 29.403440475463867
+epoch: 9, iter: 64000, loss: 29.929584503173828
+epoch: 9, iter: 65000, loss: 29.009742736816406
+epoch: 9, iteration: 65000, simlex-999: SpearmanrResult(correlation=0.23817711070281333, pvalue=9.025121211312093e-14), men: SpearmanrResult(correlation=0.3790771062087367, pvalue=5.060460087208801e-89), sim353: SpearmanrResult(correlation=0.4546034181985859, pvalue=1.1279597730990221e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'killer', 'dodo']
+epoch: 9, iter: 66000, loss: 29.19414520263672
+epoch: 9, iter: 67000, loss: 29.873754501342773
+epoch: 9, iter: 68000, loss: 30.474451065063477
+epoch: 9, iter: 69000, loss: 29.227840423583984
+epoch: 9, iter: 70000, loss: 29.52224349975586
+epoch: 9, iteration: 70000, simlex-999: SpearmanrResult(correlation=0.237828631025427, pvalue=9.826918301527419e-14), men: SpearmanrResult(correlation=0.3786644328379349, pvalue=8.113512466826236e-89), sim353: SpearmanrResult(correlation=0.45402635338266606, pvalue=1.2540355597155756e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'killer', 'dodo']
+epoch: 9, iter: 71000, loss: 29.089475631713867
+epoch: 9, iter: 72000, loss: 29.403120040893555
+epoch: 9, iter: 73000, loss: 29.98122787475586
+epoch: 9, iter: 74000, loss: 29.970523834228516
+epoch: 9, iter: 75000, loss: 29.71596908569336
+epoch: 9, iteration: 75000, simlex-999: SpearmanrResult(correlation=0.23920114076675017, pvalue=7.022483328638858e-14), men: SpearmanrResult(correlation=0.37981801469092863, pvalue=2.164491523022535e-89), sim353: SpearmanrResult(correlation=0.4535821872223023, pvalue=1.3604079910345059e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'killer', 'dodo']
+epoch: 9, iter: 76000, loss: 29.833925247192383
+epoch: 9, iter: 77000, loss: 29.413898468017578
+epoch: 9, iter: 78000, loss: 29.964881896972656
+epoch: 9, iter: 79000, loss: 29.887908935546875
+epoch: 9, iter: 80000, loss: 29.56318473815918
+epoch: 9, iteration: 80000, simlex-999: SpearmanrResult(correlation=0.23962199491934358, pvalue=6.332310137664182e-14), men: SpearmanrResult(correlation=0.38081814007372206, pvalue=6.8542205226811805e-90), sim353: SpearmanrResult(correlation=0.4549603407352744, pvalue=1.0563024080317448e-17), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'hammer', 'beast', 'serpent', 'killer', 'snake']
+epoch: 9, iter: 81000, loss: 30.646400451660156
+epoch: 9, iter: 82000, loss: 29.584383010864258
+epoch: 9, iter: 83000, loss: 29.95462417602539
+epoch: 9, iter: 84000, loss: 29.33542251586914
+epoch: 9, iter: 85000, loss: 29.63782501220703
+epoch: 9, iteration: 85000, simlex-999: SpearmanrResult(correlation=0.23891942845667918, pvalue=7.525183496177528e-14), men: SpearmanrResult(correlation=0.38168926788525165, pvalue=2.5092580195705176e-90), sim353: SpearmanrResult(correlation=0.45576808360701354, pvalue=9.102382282440296e-18), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'hammer', 'beast', 'killer', 'serpent', 'snake']
+epoch: 9, iter: 86000, loss: 29.447219848632812
+epoch: 9, iter: 87000, loss: 29.35569953918457
+epoch: 9, iter: 88000, loss: 28.89031219482422
+epoch: 9, iter: 89000, loss: 29.623699188232422
+epoch: 9, iter: 90000, loss: 30.138525009155273
+epoch: 9, iteration: 90000, simlex-999: SpearmanrResult(correlation=0.23937889463395884, pvalue=6.722409674044864e-14), men: SpearmanrResult(correlation=0.3829435250593387, pvalue=5.872909911464197e-91), sim353: SpearmanrResult(correlation=0.4572181391742433, pvalue=6.961376987399726e-18), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'beast', 'hammer', 'killer', 'serpent', 'snake']
+epoch: 9, iter: 91000, loss: 29.316102981567383
+epoch: 9, iter: 92000, loss: 29.708385467529297
+epoch: 9, iter: 93000, loss: 29.850406646728516
+epoch: 9, iter: 94000, loss: 29.727840423583984
+epoch: 9, iter: 95000, loss: 29.379547119140625
+epoch: 9, iteration: 95000, simlex-999: SpearmanrResult(correlation=0.23982140653555437, pvalue=6.028980288865017e-14), men: SpearmanrResult(correlation=0.383538349552553, pvalue=2.942951047876577e-91), sim353: SpearmanrResult(correlation=0.45971548790194783, pvalue=4.373401616149174e-18), nearest to monster: ['monster', 'giant', 'ness', 'loch', 'creature', 'beast', 'hammer', 'serpent', 'killer', 'snake']
+epoch: 9, iter: 96000, loss: 29.012359619140625
+epoch: 9, iter: 97000, loss: 29.459571838378906
+epoch: 9, iter: 98000, loss: 29.327913284301758
+epoch: 9, iter: 99000, loss: 29.850557327270508
+epoch: 9, iter: 100000, loss: 30.376657485961914
+epoch: 9, iteration: 100000, simlex-999: SpearmanrResult(correlation=0.23871940442886366, pvalue=7.903388897100645e-14), men: SpearmanrResult(correlation=0.3851768430690519, pvalue=4.3549602051242525e-92), sim353: SpearmanrResult(correlation=0.45843585314198204, pvalue=5.552218893037063e-18), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'beast', 'hammer', 'serpent', 'killer', 'monsters']
+epoch: 9, iter: 101000, loss: 29.913766860961914
+epoch: 9, iter: 102000, loss: 29.64910125732422
+epoch: 9, iter: 103000, loss: 29.674030303955078
+epoch: 9, iter: 104000, loss: 29.779266357421875
+epoch: 9, iter: 105000, loss: 29.875991821289062
+epoch: 9, iteration: 105000, simlex-999: SpearmanrResult(correlation=0.23932914538856442, pvalue=6.80510134547088e-14), men: SpearmanrResult(correlation=0.38608710633669635, pvalue=1.4994672222680202e-92), sim353: SpearmanrResult(correlation=0.4583508275765357, pvalue=5.640765366470854e-18), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'beast', 'hammer', 'serpent', 'killer', 'snake']
+epoch: 9, iter: 106000, loss: 29.67350959777832
+epoch: 9, iter: 107000, loss: 29.132598876953125
+epoch: 9, iter: 108000, loss: 29.39921760559082
+epoch: 9, iter: 109000, loss: 29.747692108154297
+epoch: 9, iter: 110000, loss: 28.876426696777344
+epoch: 9, iteration: 110000, simlex-999: SpearmanrResult(correlation=0.2387637081394101, pvalue=7.818043356153857e-14), men: SpearmanrResult(correlation=0.3871416583389579, pvalue=4.3416151172911976e-93), sim353: SpearmanrResult(correlation=0.45984801688113247, pvalue=4.2663841967755904e-18), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'beast', 'hammer', 'serpent', 'killer', 'snake']
+epoch: 9, iter: 111000, loss: 29.560237884521484
+epoch: 9, iter: 112000, loss: 30.044464111328125
+epoch: 9, iter: 113000, loss: 29.844738006591797
+epoch: 9, iter: 114000, loss: 30.226898193359375
+epoch: 9, iter: 115000, loss: 29.64881134033203
+epoch: 9, iteration: 115000, simlex-999: SpearmanrResult(correlation=0.2394261629821319, pvalue=6.644755754365704e-14), men: SpearmanrResult(correlation=0.3876027402766317, pvalue=2.5215929263223777e-93), sim353: SpearmanrResult(correlation=0.46342907189190485, pvalue=2.1754729815967327e-18), nearest to monster: ['monster', 'ness', 'giant', 'loch', 'creature', 'beast', 'hammer', 'serpent', 'killer', 'snake']
+epoch: 9, iter: 116000, loss: 30.183460235595703
+epoch: 9, iter: 117000, loss: 29.654930114746094
+epoch: 9, iter: 118000, loss: 29.335914611816406
+epoch: 9, iter: 119000, loss: 29.579448699951172
