@@ -1,4 +1,4 @@
-
+*.pyc
 *.zip 
 *.gz
 *.th
