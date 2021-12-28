@@ -15,10 +15,23 @@ from get_data import *
 from train_fn import * 
 
 class Encoder(nn.Module):
-    def __init__(self, vocab_size, embed_size, enc_hidden_size, dec_hidden_size, dropout=0.2):
+    '''
+    x: english sequence 
+    lengths: batch里每个句子的长度
+    
+    x: [batch_size, seq_len] => embed 
+    => embedded: [batch_size, seq_len, embedding_size] => pack_padded
+    => packed_embedded: [batch_size, seq_len*batch_size, embedding_size] => rnn
+    => packed_out: [batch_size, seq_len*batch_size, 2*enc_hidden_size] => pad_packed
+       hid: [2, batch_size, enc_hidden_size] => torch.cat
+    => out: [batch_size, seq_len, 2*enc_hidden_size]
+       hid: [batch_size, 2 * enc_hidden_size] => fc => unsqueeze(0)
+    => hid: [batch_size, dec_hidden_size] => hid: [1, batch_size, dec_hidden_size]
+    '''
+    def __init__(self, vocab_size, embed_size, enc_hidden_size, dec_hidden_size, dropout = 0.2):
         super(Encoder, self).__init__()
         self.embed = nn.Embedding(vocab_size, embed_size)
-        self.rnn = nn.GRU(embed_size, enc_hidden_size, batch_first=True, bidirectional=True)
+        self.rnn = nn.GRU(embed_size, enc_hidden_size, batch_first = True, bidirectional = True)
         self.dropout = nn.Dropout(dropout)
         self.fc = nn.Linear(enc_hidden_size * 2, dec_hidden_size)
 
@@ -26,25 +39,41 @@ class Encoder(nn.Module):
         sorted_len, sorted_idx = lengths.sort(0, descending=True)
         x_sorted = x[sorted_idx.long()]
         embedded = self.dropout(self.embed(x_sorted))
-        
         packed_embedded = nn.utils.rnn.pack_padded_sequence(embedded, sorted_len.long().cpu().data.numpy(), batch_first=True)
         packed_out, hid = self.rnn(packed_embedded)
         out, _ = nn.utils.rnn.pad_packed_sequence(packed_out, batch_first=True)
         _, original_idx = sorted_idx.sort(0, descending=False)
         out = out[original_idx.long()].contiguous()
-        hid = hid[:, original_idx.long()].contiguous()
+        hid = hid[:, original_idx.long()].contiguous() # 双向RNN会拿到两个 hidden state
         
-        hid = torch.cat([hid[-2], hid[-1]], dim=1)
+        hid = torch.cat([hid[-2], hid[-1]], dim=1)  # hid[-1]: 反向 hidden state; hid[-2]: 正向 hidden state; 
         hid = torch.tanh(self.fc(hid)).unsqueeze(0)
+
         return out, hid
 
 class Decoder(nn.Module):
+    '''
+    x: english sequence 
+    lengths: batch里每个句子的长度
+    
+    y: [batch_size, seq_len] => embed 
+    => embedded: [batch_size, seq_len, embedding_size] => pack_padded
+    => packed_seq: [batch_size, seq_len*batch_size, embedding_size] => rnn
+    => packed_out: [batch_size, seq_len*batch_size, enc_hidden_size] => pad_packed
+       hid: [1, batch_size, enc_hidden_size]
+    
+    => out: [batch_size, seq_len, enc_hidden_size] => attention
+       hid: [batch_size, dec_hidden_size] => fc 
+    => out: [batch_size, seq_len, enc_hidden_size]
+
+    => hid: [batch_size, vocab_size] 
+    '''
     def __init__(self, vocab_size, embed_size, enc_hidden_size, dec_hidden_size, dropout=0.2):
         super(Decoder, self).__init__()
         self.embed = nn.Embedding(vocab_size, embed_size)
-        self.attention = Attention(enc_hidden_size, dec_hidden_size)
         self.rnn = nn.GRU(embed_size, enc_hidden_size, batch_first = True)
-        self.out = nn.Linear(dec_hidden_size, vocab_size)
+        self.attention = Attention(enc_hidden_size, dec_hidden_size)
+        self.fc = nn.Linear(dec_hidden_size, vocab_size)
         self.dropout = nn.Dropout(dropout)
 
     def create_mask(self, x_len, y_len):
@@ -61,22 +90,24 @@ class Decoder(nn.Module):
         y_sorted = y[sorted_idx.long()]
         hid = hid[:, sorted_idx.long()]
         
-        y_sorted = self.dropout(self.embed(y_sorted)) # batch_size, output_length, embed_size
-
-        packed_seq = nn.utils.rnn.pack_padded_sequence(y_sorted, sorted_len.long().cpu().data.numpy(), batch_first=True)
-        out, hid = self.rnn(packed_seq, hid)
-        unpacked, _ = nn.utils.rnn.pad_packed_sequence(out, batch_first=True)
+        embedded = self.dropout(self.embed(y_sorted))
+        packed_seq = nn.utils.rnn.pack_padded_sequence(embedded, sorted_len.long().cpu().data.numpy(), batch_first=True)
+        packed_out, hid = self.rnn(packed_seq, hid)
+        unpacked_out, _ = nn.utils.rnn.pad_packed_sequence(packed_out, batch_first=True)
+        
         _, original_idx = sorted_idx.sort(0, descending=False)
-        output_seq = unpacked[original_idx.long()].contiguous()
+        unpacked_out = unpacked_out[original_idx.long()].contiguous()
         hid = hid[:, original_idx.long()].contiguous()
+        
         mask = self.create_mask(y_lengths, ctx_lengths)
-        # code.interact(local=locals())
-        output, attn = self.attention(output_seq, ctx, mask)
-        output = F.log_softmax(self.out(output), -1)
+
+        output, attn = self.attention(unpacked_out, ctx, mask)
+        output = F.log_softmax(self.fc(output), -1)
         return output, hid, attn
 
+
 class Attention(nn.Module):
-    """ Luong Attention
+    """ Luong Attention·
     output: batch_size, output_len, dec_hidden_size
     context: batch_size, context_len, enc_hidden_size
     """
@@ -105,6 +136,7 @@ class Attention(nn.Module):
         output = torch.tanh(self.linear_out(output))
         output = output.view(batch_size, output_len, -1)
         return output, attn
+
 
 class Seq2Seq(nn.Module):
     def __init__(self, encoder, decoder):
@@ -177,14 +209,16 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     en_vocab_size = len(en_dict)
     cn_vocab_size = len(cn_dict)
-    embed_size = hidden_size = 100
+    embed_size = 100
+    hidden_size = 128
     dropout = 0.5
+    num_epochs = 1
 
-    encoder = Encoder(vocab_size=en_vocab_size, 
-                      embed_size=embed_size, 
-                      enc_hidden_size=hidden_size,
-                      dec_hidden_size=hidden_size,
-                      dropout=dropout)
+    encoder = Encoder(vocab_size = en_vocab_size, 
+                      embed_size = embed_size, 
+                      enc_hidden_size = hidden_size,
+                      dec_hidden_size = hidden_size,
+                      dropout = dropout)
 
     decoder = Decoder(vocab_size=cn_vocab_size, 
                       embed_size=embed_size, 
@@ -198,17 +232,17 @@ def main():
     
     random.shuffle(train_data)
     train(model, train_data, 
-        num_epochs= 30, 
+        num_epochs = num_epochs,
         device = device, 
         loss_fn = loss_fn,
         optimizer = optimizer,
         valid_data = dev_data)
 
 
-    # translate_dev
-    for i in range(100,120):
-        translate_dev(i)
-        print()
+    # # translate_dev
+    # for i in range(100,120):
+    #     translate_dev(i)
+    #     print()
 
 
 

@@ -49,7 +49,7 @@ class PlainEncoder(nn.Module):
         _, original_idx = sorted_idx.sort(0, descending=False)  # 按照原始idx升序排列
         out = out[original_idx.long()].contiguous() # torch.contiguous()方法首先拷贝了一份张量在内存中的地址，然后将地址按照形状改变后的张量的语义进行排列。
         hid = hid[:, original_idx.long()].contiguous()
-        return out, hid[[-1]]
+        return out, hid[[-1]]  # hid[[-1]] 表示去除RNN网络的最后一层的状态
     
 class PlainDecoder(nn.Module):
     '''基于中文输入和英文encoder的最后一个隐藏层的输出，得到最终的翻译语句
